@@ -1,0 +1,841 @@
+C:\Users\dusan\source\repos\si.23.51.eveterinarskaambulanta\eVeterinarskaAmbulanta\obj\Debug\net6.0\eVeterinarskaAmbulanta.csproj.AssemblyReference.cache
+C:\Users\dusan\source\repos\si.23.51.eveterinarskaambulanta\eVeterinarskaAmbulanta\obj\Debug\net6.0\eVeterinarskaAmbulanta.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dusan\source\repos\si.23.51.eveterinarskaambulanta\eVeterinarskaAmbulanta\obj\Debug\net6.0\eVeterinarskaAmbulanta.AssemblyInfoInputs.cache
+C:\Users\dusan\source\repos\si.23.51.eveterinarskaambulanta\eVeterinarskaAmbulanta\obj\Debug\net6.0\eVeterinarskaAmbulanta.AssemblyInfo.cs
+C:\Users\dusan\source\repos\si.23.51.eveterinarskaambulanta\eVeterinarskaAmbulanta\obj\Debug\net6.0\eVeterinarskaAmbulanta.csproj.CoreCompileInputs.cache
+C:\Users\dusan\source\repos\si.23.51.eveterinarskaambulanta\eVeterinarskaAmbulanta\obj\Debug\net6.0\eVeterinarskaAmbulanta.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\dusan\source\repos\si.23.51.eveterinarskaambulanta\eVeterinarskaAmbulanta\obj\Debug\net6.0\eVeterinarskaAmbulanta.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\dusan\source\repos\si.23.51.eveterinarskaambulanta\eVeterinarskaAmbulanta\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\dusan\source\repos\si.23.51.eveterinarskaambulanta\eVeterinarskaAmbulanta\bin\Debug\net6.0\appsettings.json
+C:\Users\dusan\source\repos\si.23.51.eveterinarskaambulanta\eVeterinarskaAmbulanta\bin\Debug\net6.0\eVeterinarskaAmbulanta.exe
+C:\Users\dusan\source\repos\si.23.51.eveterinarskaambulanta\eVeterinarskaAmbulanta\bin\Debug\net6.0\eVeterinarskaAmbulanta.deps.json
+C:\Users\dusan\source\repos\si.23.51.eveterinarskaambulanta\eVeterinarskaAmbulanta\bin\Debug\net6.0\eVeterinarskaAmbulanta.runtimeconfig.json
+C:\Users\dusan\source\repos\si.23.51.eveterinarskaambulanta\eVeterinarskaAmbulanta\bin\Debug\net6.0\eVeterinarskaAmbulanta.dll
+C:\Users\dusan\source\repos\si.23.51.eveterinarskaambulanta\eVeterinarskaAmbulanta\bin\Debug\net6.0\eVeterinarskaAmbulanta.pdb
+C:\Users\dusan\source\repos\si.23.51.eveterinarskaambulanta\eVeterinarskaAmbulanta\bin\Debug\net6.0\AutoMapper.dll
+C:\Users\dusan\source\repos\si.23.51.eveterinarskaambulanta\eVeterinarskaAmbulanta\bin\Debug\net6.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\dusan\source\repos\si.23.51.eveterinarskaambulanta\eVeterinarskaAmbulanta\bin\Debug\net6.0\Humanizer.dll
+C:\Users\dusan\source\repos\si.23.51.eveterinarskaambulanta\eVeterinarskaAmbulanta\bin\Debug\net6.0\Microsoft.Data.Sqlite.dll
+C:\Users\dusan\source\repos\si.23.51.eveterinarskaambulanta\eVeterinarskaAmbulanta\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\dusan\source\repos\si.23.51.eveterinarskaambulanta\eVeterinarskaAmbulanta\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\dusan\source\repos\si.23.51.eveterinarskaambulanta\eVeterinarskaAmbulanta\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\dusan\source\repos\si.23.51.eveterinarskaambulanta\eVeterinarskaAmbulanta\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\dusan\source\repos\si.23.51.eveterinarskaambulanta\eVeterinarskaAmbulanta\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Sqlite.dll
+C:\Users\dusan\source\repos\si.23.51.eveterinarskaambulanta\eVeterinarskaAmbulanta\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\dusan\source\repos\si.23.51.eveterinarskaambulanta\eVeterinarskaAmbulanta\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\dusan\source\repos\si.23.51.eveterinarskaambulanta\eVeterinarskaAmbulanta\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\dusan\source\repos\si.23.51.eveterinarskaambulanta\eVeterinarskaAmbulanta\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\dusan\source\repos\si.23.51.eveterinarskaambulanta\eVeterinarskaAmbulanta\bin\Debug\net6.0\SQLitePCLRaw.batteries_v2.dll
+C:\Users\dusan\source\repos\si.23.51.eveterinarskaambulanta\eVeterinarskaAmbulanta\bin\Debug\net6.0\SQLitePCLRaw.core.dll
+C:\Users\dusan\source\repos\si.23.51.eveterinarskaambulanta\eVeterinarskaAmbulanta\bin\Debug\net6.0\SQLitePCLRaw.provider.e_sqlite3.dll
+C:\Users\dusan\source\repos\si.23.51.eveterinarskaambulanta\eVeterinarskaAmbulanta\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\dusan\source\repos\si.23.51.eveterinarskaambulanta\eVeterinarskaAmbulanta\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\dusan\source\repos\si.23.51.eveterinarskaambulanta\eVeterinarskaAmbulanta\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\dusan\source\repos\si.23.51.eveterinarskaambulanta\eVeterinarskaAmbulanta\bin\Debug\net6.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\dusan\source\repos\si.23.51.eveterinarskaambulanta\eVeterinarskaAmbulanta\bin\Debug\net6.0\runtimes\alpine-arm\native\libe_sqlite3.so
+C:\Users\dusan\source\repos\si.23.51.eveterinarskaambulanta\eVeterinarskaAmbulanta\bin\Debug\net6.0\runtimes\alpine-arm64\native\libe_sqlite3.so
+C:\Users\dusan\source\repos\si.23.51.eveterinarskaambulanta\eVeterinarskaAmbulanta\bin\Debug\net6.0\runtimes\alpine-x64\native\libe_sqlite3.so
+C:\Users\dusan\source\repos\si.23.51.eveterinarskaambulanta\eVeterinarskaAmbulanta\bin\Debug\net6.0\runtimes\browser-wasm\nativeassets\net6.0\e_sqlite3.a
+C:\Users\dusan\source\repos\si.23.51.eveterinarskaambulanta\eVeterinarskaAmbulanta\bin\Debug\net6.0\runtimes\linux-arm\native\libe_sqlite3.so
+C:\Users\dusan\source\repos\si.23.51.eveterinarskaambulanta\eVeterinarskaAmbulanta\bin\Debug\net6.0\runtimes\linux-arm64\native\libe_sqlite3.so
+C:\Users\dusan\source\repos\si.23.51.eveterinarskaambulanta\eVeterinarskaAmbulanta\bin\Debug\net6.0\runtimes\linux-armel\native\libe_sqlite3.so
+C:\Users\dusan\source\repos\si.23.51.eveterinarskaambulanta\eVeterinarskaAmbulanta\bin\Debug\net6.0\runtimes\linux-mips64\native\libe_sqlite3.so
+C:\Users\dusan\source\repos\si.23.51.eveterinarskaambulanta\eVeterinarskaAmbulanta\bin\Debug\net6.0\runtimes\linux-musl-arm\native\libe_sqlite3.so
+C:\Users\dusan\source\repos\si.23.51.eveterinarskaambulanta\eVeterinarskaAmbulanta\bin\Debug\net6.0\runtimes\linux-musl-arm64\native\libe_sqlite3.so
+C:\Users\dusan\source\repos\si.23.51.eveterinarskaambulanta\eVeterinarskaAmbulanta\bin\Debug\net6.0\runtimes\linux-musl-x64\native\libe_sqlite3.so
+C:\Users\dusan\source\repos\si.23.51.eveterinarskaambulanta\eVeterinarskaAmbulanta\bin\Debug\net6.0\runtimes\linux-s390x\native\libe_sqlite3.so
+C:\Users\dusan\source\repos\si.23.51.eveterinarskaambulanta\eVeterinarskaAmbulanta\bin\Debug\net6.0\runtimes\linux-x64\native\libe_sqlite3.so
+C:\Users\dusan\source\repos\si.23.51.eveterinarskaambulanta\eVeterinarskaAmbulanta\bin\Debug\net6.0\runtimes\linux-x86\native\libe_sqlite3.so
+C:\Users\dusan\source\repos\si.23.51.eveterinarskaambulanta\eVeterinarskaAmbulanta\bin\Debug\net6.0\runtimes\maccatalyst-arm64\native\libe_sqlite3.dylib
+C:\Users\dusan\source\repos\si.23.51.eveterinarskaambulanta\eVeterinarskaAmbulanta\bin\Debug\net6.0\runtimes\maccatalyst-x64\native\libe_sqlite3.dylib
+C:\Users\dusan\source\repos\si.23.51.eveterinarskaambulanta\eVeterinarskaAmbulanta\bin\Debug\net6.0\runtimes\osx-arm64\native\libe_sqlite3.dylib
+C:\Users\dusan\source\repos\si.23.51.eveterinarskaambulanta\eVeterinarskaAmbulanta\bin\Debug\net6.0\runtimes\osx-x64\native\libe_sqlite3.dylib
+C:\Users\dusan\source\repos\si.23.51.eveterinarskaambulanta\eVeterinarskaAmbulanta\bin\Debug\net6.0\runtimes\win-arm\native\e_sqlite3.dll
+C:\Users\dusan\source\repos\si.23.51.eveterinarskaambulanta\eVeterinarskaAmbulanta\bin\Debug\net6.0\runtimes\win-arm64\native\e_sqlite3.dll
+C:\Users\dusan\source\repos\si.23.51.eveterinarskaambulanta\eVeterinarskaAmbulanta\bin\Debug\net6.0\runtimes\win-x64\native\e_sqlite3.dll
+C:\Users\dusan\source\repos\si.23.51.eveterinarskaambulanta\eVeterinarskaAmbulanta\bin\Debug\net6.0\runtimes\win-x86\native\e_sqlite3.dll
+C:\Users\dusan\source\repos\si.23.51.eveterinarskaambulanta\eVeterinarskaAmbulanta\obj\Debug\net6.0\staticwebassets\msbuild.eVeterinarskaAmbulanta.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\dusan\source\repos\si.23.51.eveterinarskaambulanta\eVeterinarskaAmbulanta\obj\Debug\net6.0\staticwebassets\msbuild.build.eVeterinarskaAmbulanta.props
+C:\Users\dusan\source\repos\si.23.51.eveterinarskaambulanta\eVeterinarskaAmbulanta\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.eVeterinarskaAmbulanta.props
+C:\Users\dusan\source\repos\si.23.51.eveterinarskaambulanta\eVeterinarskaAmbulanta\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.eVeterinarskaAmbulanta.props
+C:\Users\dusan\source\repos\si.23.51.eveterinarskaambulanta\eVeterinarskaAmbulanta\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\dusan\source\repos\si.23.51.eveterinarskaambulanta\eVeterinarskaAmbulanta\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\dusan\source\repos\si.23.51.eveterinarskaambulanta\eVeterinarskaAmbulanta\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\dusan\source\repos\si.23.51.eveterinarskaambulanta\eVeterinarskaAmbulanta\obj\Debug\net6.0\scopedcss\bundle\eVeterinarskaAmbulanta.styles.css
+C:\Users\dusan\source\repos\si.23.51.eveterinarskaambulanta\eVeterinarskaAmbulanta\obj\Debug\net6.0\eVeterinarskaAmbulanta.csproj.CopyComplete
+C:\Users\dusan\source\repos\si.23.51.eveterinarskaambulanta\eVeterinarskaAmbulanta\obj\Debug\net6.0\eVeterinarskaAmbulanta.dll
+C:\Users\dusan\source\repos\si.23.51.eveterinarskaambulanta\eVeterinarskaAmbulanta\obj\Debug\net6.0\refint\eVeterinarskaAmbulanta.dll
+C:\Users\dusan\source\repos\si.23.51.eveterinarskaambulanta\eVeterinarskaAmbulanta\obj\Debug\net6.0\eVeterinarskaAmbulanta.pdb
+C:\Users\dusan\source\repos\si.23.51.eveterinarskaambulanta\eVeterinarskaAmbulanta\obj\Debug\net6.0\eVeterinarskaAmbulanta.genruntimeconfig.cache
+C:\Users\dusan\source\repos\si.23.51.eveterinarskaambulanta\eVeterinarskaAmbulanta\obj\Debug\net6.0\ref\eVeterinarskaAmbulanta.dll
+C:\Users\dusan\source\repos\si.23.51.eveterinarskaambulanta\eVeterinarskaAmbulanta\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\dusan\source\repos\si.23.51.eveterinarskaambulanta\eVeterinarskaAmbulanta\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\dusan\source\repos\si.23.51.eveterinarskaambulanta\eVeterinarskaAmbulanta\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\dusan\source\repos\si.23.51.eveterinarskaambulanta\eVeterinarskaAmbulanta\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\dusan\source\repos\si.23.51.eveterinarskaambulanta\eVeterinarskaAmbulanta\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\dusan\source\repos\si.23.51.eveterinarskaambulanta\eVeterinarskaAmbulanta\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\dusan\source\repos\si.23.51.eveterinarskaambulanta\eVeterinarskaAmbulanta\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\dusan\source\repos\si.23.51.eveterinarskaambulanta\eVeterinarskaAmbulanta\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Anja\Desktop\SWE\si.23.51.eveterinarskaambulanta\eVeterinarskaAmbulanta\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\Anja\Desktop\SWE\si.23.51.eveterinarskaambulanta\eVeterinarskaAmbulanta\bin\Debug\net6.0\appsettings.json
+C:\Users\Anja\Desktop\SWE\si.23.51.eveterinarskaambulanta\eVeterinarskaAmbulanta\bin\Debug\net6.0\eVeterinarskaAmbulanta.exe
+C:\Users\Anja\Desktop\SWE\si.23.51.eveterinarskaambulanta\eVeterinarskaAmbulanta\bin\Debug\net6.0\eVeterinarskaAmbulanta.deps.json
+C:\Users\Anja\Desktop\SWE\si.23.51.eveterinarskaambulanta\eVeterinarskaAmbulanta\bin\Debug\net6.0\eVeterinarskaAmbulanta.runtimeconfig.json
+C:\Users\Anja\Desktop\SWE\si.23.51.eveterinarskaambulanta\eVeterinarskaAmbulanta\bin\Debug\net6.0\eVeterinarskaAmbulanta.dll
+C:\Users\Anja\Desktop\SWE\si.23.51.eveterinarskaambulanta\eVeterinarskaAmbulanta\bin\Debug\net6.0\eVeterinarskaAmbulanta.pdb
+C:\Users\Anja\Desktop\SWE\si.23.51.eveterinarskaambulanta\eVeterinarskaAmbulanta\bin\Debug\net6.0\AutoMapper.dll
+C:\Users\Anja\Desktop\SWE\si.23.51.eveterinarskaambulanta\eVeterinarskaAmbulanta\bin\Debug\net6.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\Anja\Desktop\SWE\si.23.51.eveterinarskaambulanta\eVeterinarskaAmbulanta\bin\Debug\net6.0\Humanizer.dll
+C:\Users\Anja\Desktop\SWE\si.23.51.eveterinarskaambulanta\eVeterinarskaAmbulanta\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\Anja\Desktop\SWE\si.23.51.eveterinarskaambulanta\eVeterinarskaAmbulanta\bin\Debug\net6.0\Microsoft.Data.Sqlite.dll
+C:\Users\Anja\Desktop\SWE\si.23.51.eveterinarskaambulanta\eVeterinarskaAmbulanta\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Anja\Desktop\SWE\si.23.51.eveterinarskaambulanta\eVeterinarskaAmbulanta\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Anja\Desktop\SWE\si.23.51.eveterinarskaambulanta\eVeterinarskaAmbulanta\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Anja\Desktop\SWE\si.23.51.eveterinarskaambulanta\eVeterinarskaAmbulanta\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Anja\Desktop\SWE\si.23.51.eveterinarskaambulanta\eVeterinarskaAmbulanta\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Sqlite.dll
+C:\Users\Anja\Desktop\SWE\si.23.51.eveterinarskaambulanta\eVeterinarskaAmbulanta\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Anja\Desktop\SWE\si.23.51.eveterinarskaambulanta\eVeterinarskaAmbulanta\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Anja\Desktop\SWE\si.23.51.eveterinarskaambulanta\eVeterinarskaAmbulanta\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\Anja\Desktop\SWE\si.23.51.eveterinarskaambulanta\eVeterinarskaAmbulanta\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\Anja\Desktop\SWE\si.23.51.eveterinarskaambulanta\eVeterinarskaAmbulanta\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Anja\Desktop\SWE\si.23.51.eveterinarskaambulanta\eVeterinarskaAmbulanta\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Anja\Desktop\SWE\si.23.51.eveterinarskaambulanta\eVeterinarskaAmbulanta\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Anja\Desktop\SWE\si.23.51.eveterinarskaambulanta\eVeterinarskaAmbulanta\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Anja\Desktop\SWE\si.23.51.eveterinarskaambulanta\eVeterinarskaAmbulanta\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Anja\Desktop\SWE\si.23.51.eveterinarskaambulanta\eVeterinarskaAmbulanta\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\Anja\Desktop\SWE\si.23.51.eveterinarskaambulanta\eVeterinarskaAmbulanta\bin\Debug\net6.0\SQLitePCLRaw.batteries_v2.dll
+C:\Users\Anja\Desktop\SWE\si.23.51.eveterinarskaambulanta\eVeterinarskaAmbulanta\bin\Debug\net6.0\SQLitePCLRaw.core.dll
+C:\Users\Anja\Desktop\SWE\si.23.51.eveterinarskaambulanta\eVeterinarskaAmbulanta\bin\Debug\net6.0\SQLitePCLRaw.provider.e_sqlite3.dll
+C:\Users\Anja\Desktop\SWE\si.23.51.eveterinarskaambulanta\eVeterinarskaAmbulanta\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Anja\Desktop\SWE\si.23.51.eveterinarskaambulanta\eVeterinarskaAmbulanta\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Anja\Desktop\SWE\si.23.51.eveterinarskaambulanta\eVeterinarskaAmbulanta\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Anja\Desktop\SWE\si.23.51.eveterinarskaambulanta\eVeterinarskaAmbulanta\bin\Debug\net6.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Anja\Desktop\SWE\si.23.51.eveterinarskaambulanta\eVeterinarskaAmbulanta\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Anja\Desktop\SWE\si.23.51.eveterinarskaambulanta\eVeterinarskaAmbulanta\bin\Debug\net6.0\runtimes\alpine-arm\native\libe_sqlite3.so
+C:\Users\Anja\Desktop\SWE\si.23.51.eveterinarskaambulanta\eVeterinarskaAmbulanta\bin\Debug\net6.0\runtimes\alpine-arm64\native\libe_sqlite3.so
+C:\Users\Anja\Desktop\SWE\si.23.51.eveterinarskaambulanta\eVeterinarskaAmbulanta\bin\Debug\net6.0\runtimes\alpine-x64\native\libe_sqlite3.so
+C:\Users\Anja\Desktop\SWE\si.23.51.eveterinarskaambulanta\eVeterinarskaAmbulanta\bin\Debug\net6.0\runtimes\browser-wasm\nativeassets\net6.0\e_sqlite3.a
+C:\Users\Anja\Desktop\SWE\si.23.51.eveterinarskaambulanta\eVeterinarskaAmbulanta\bin\Debug\net6.0\runtimes\linux-arm\native\libe_sqlite3.so
+C:\Users\Anja\Desktop\SWE\si.23.51.eveterinarskaambulanta\eVeterinarskaAmbulanta\bin\Debug\net6.0\runtimes\linux-arm64\native\libe_sqlite3.so
+C:\Users\Anja\Desktop\SWE\si.23.51.eveterinarskaambulanta\eVeterinarskaAmbulanta\bin\Debug\net6.0\runtimes\linux-armel\native\libe_sqlite3.so
+C:\Users\Anja\Desktop\SWE\si.23.51.eveterinarskaambulanta\eVeterinarskaAmbulanta\bin\Debug\net6.0\runtimes\linux-mips64\native\libe_sqlite3.so
+C:\Users\Anja\Desktop\SWE\si.23.51.eveterinarskaambulanta\eVeterinarskaAmbulanta\bin\Debug\net6.0\runtimes\linux-musl-arm\native\libe_sqlite3.so
+C:\Users\Anja\Desktop\SWE\si.23.51.eveterinarskaambulanta\eVeterinarskaAmbulanta\bin\Debug\net6.0\runtimes\linux-musl-arm64\native\libe_sqlite3.so
+C:\Users\Anja\Desktop\SWE\si.23.51.eveterinarskaambulanta\eVeterinarskaAmbulanta\bin\Debug\net6.0\runtimes\linux-musl-x64\native\libe_sqlite3.so
+C:\Users\Anja\Desktop\SWE\si.23.51.eveterinarskaambulanta\eVeterinarskaAmbulanta\bin\Debug\net6.0\runtimes\linux-s390x\native\libe_sqlite3.so
+C:\Users\Anja\Desktop\SWE\si.23.51.eveterinarskaambulanta\eVeterinarskaAmbulanta\bin\Debug\net6.0\runtimes\linux-x64\native\libe_sqlite3.so
+C:\Users\Anja\Desktop\SWE\si.23.51.eveterinarskaambulanta\eVeterinarskaAmbulanta\bin\Debug\net6.0\runtimes\linux-x86\native\libe_sqlite3.so
+C:\Users\Anja\Desktop\SWE\si.23.51.eveterinarskaambulanta\eVeterinarskaAmbulanta\bin\Debug\net6.0\runtimes\maccatalyst-arm64\native\libe_sqlite3.dylib
+C:\Users\Anja\Desktop\SWE\si.23.51.eveterinarskaambulanta\eVeterinarskaAmbulanta\bin\Debug\net6.0\runtimes\maccatalyst-x64\native\libe_sqlite3.dylib
+C:\Users\Anja\Desktop\SWE\si.23.51.eveterinarskaambulanta\eVeterinarskaAmbulanta\bin\Debug\net6.0\runtimes\osx-arm64\native\libe_sqlite3.dylib
+C:\Users\Anja\Desktop\SWE\si.23.51.eveterinarskaambulanta\eVeterinarskaAmbulanta\bin\Debug\net6.0\runtimes\osx-x64\native\libe_sqlite3.dylib
+C:\Users\Anja\Desktop\SWE\si.23.51.eveterinarskaambulanta\eVeterinarskaAmbulanta\bin\Debug\net6.0\runtimes\win-arm\native\e_sqlite3.dll
+C:\Users\Anja\Desktop\SWE\si.23.51.eveterinarskaambulanta\eVeterinarskaAmbulanta\bin\Debug\net6.0\runtimes\win-arm64\native\e_sqlite3.dll
+C:\Users\Anja\Desktop\SWE\si.23.51.eveterinarskaambulanta\eVeterinarskaAmbulanta\bin\Debug\net6.0\runtimes\win-x64\native\e_sqlite3.dll
+C:\Users\Anja\Desktop\SWE\si.23.51.eveterinarskaambulanta\eVeterinarskaAmbulanta\bin\Debug\net6.0\runtimes\win-x86\native\e_sqlite3.dll
+C:\Users\Anja\Desktop\SWE\si.23.51.eveterinarskaambulanta\eVeterinarskaAmbulanta\obj\Debug\net6.0\eVeterinarskaAmbulanta.csproj.AssemblyReference.cache
+C:\Users\Anja\Desktop\SWE\si.23.51.eveterinarskaambulanta\eVeterinarskaAmbulanta\obj\Debug\net6.0\eVeterinarskaAmbulanta.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Anja\Desktop\SWE\si.23.51.eveterinarskaambulanta\eVeterinarskaAmbulanta\obj\Debug\net6.0\eVeterinarskaAmbulanta.AssemblyInfoInputs.cache
+C:\Users\Anja\Desktop\SWE\si.23.51.eveterinarskaambulanta\eVeterinarskaAmbulanta\obj\Debug\net6.0\eVeterinarskaAmbulanta.AssemblyInfo.cs
+C:\Users\Anja\Desktop\SWE\si.23.51.eveterinarskaambulanta\eVeterinarskaAmbulanta\obj\Debug\net6.0\eVeterinarskaAmbulanta.csproj.CoreCompileInputs.cache
+C:\Users\Anja\Desktop\SWE\si.23.51.eveterinarskaambulanta\eVeterinarskaAmbulanta\obj\Debug\net6.0\eVeterinarskaAmbulanta.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Anja\Desktop\SWE\si.23.51.eveterinarskaambulanta\eVeterinarskaAmbulanta\obj\Debug\net6.0\eVeterinarskaAmbulanta.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Anja\Desktop\SWE\si.23.51.eveterinarskaambulanta\eVeterinarskaAmbulanta\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\Anja\Desktop\SWE\si.23.51.eveterinarskaambulanta\eVeterinarskaAmbulanta\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\Anja\Desktop\SWE\si.23.51.eveterinarskaambulanta\eVeterinarskaAmbulanta\obj\Debug\net6.0\scopedcss\bundle\eVeterinarskaAmbulanta.styles.css
+C:\Users\Anja\Desktop\SWE\si.23.51.eveterinarskaambulanta\eVeterinarskaAmbulanta\obj\Debug\net6.0\eVeterinarskaAmbulanta.csproj.CopyComplete
+C:\Users\Anja\Desktop\SWE\si.23.51.eveterinarskaambulanta\eVeterinarskaAmbulanta\obj\Debug\net6.0\eVeterinarskaAmbulanta.dll
+C:\Users\Anja\Desktop\SWE\si.23.51.eveterinarskaambulanta\eVeterinarskaAmbulanta\obj\Debug\net6.0\refint\eVeterinarskaAmbulanta.dll
+C:\Users\Anja\Desktop\SWE\si.23.51.eveterinarskaambulanta\eVeterinarskaAmbulanta\obj\Debug\net6.0\eVeterinarskaAmbulanta.pdb
+C:\Users\Anja\Desktop\SWE\si.23.51.eveterinarskaambulanta\eVeterinarskaAmbulanta\obj\Debug\net6.0\eVeterinarskaAmbulanta.genruntimeconfig.cache
+C:\Users\Anja\Desktop\SWE\si.23.51.eveterinarskaambulanta\eVeterinarskaAmbulanta\obj\Debug\net6.0\ref\eVeterinarskaAmbulanta.dll
+C:\Users\Lazar\OneDrive\Desktop\poslednja verzija\eveterinarskaambulanta\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\Lazar\OneDrive\Desktop\poslednja verzija\eveterinarskaambulanta\bin\Debug\net6.0\appsettings.json
+C:\Users\Lazar\OneDrive\Desktop\poslednja verzija\eveterinarskaambulanta\bin\Debug\net6.0\eVeterinarskaAmbulanta.exe
+C:\Users\Lazar\OneDrive\Desktop\poslednja verzija\eveterinarskaambulanta\bin\Debug\net6.0\eVeterinarskaAmbulanta.deps.json
+C:\Users\Lazar\OneDrive\Desktop\poslednja verzija\eveterinarskaambulanta\bin\Debug\net6.0\eVeterinarskaAmbulanta.runtimeconfig.json
+C:\Users\Lazar\OneDrive\Desktop\poslednja verzija\eveterinarskaambulanta\bin\Debug\net6.0\eVeterinarskaAmbulanta.dll
+C:\Users\Lazar\OneDrive\Desktop\poslednja verzija\eveterinarskaambulanta\bin\Debug\net6.0\eVeterinarskaAmbulanta.pdb
+C:\Users\Lazar\OneDrive\Desktop\poslednja verzija\eveterinarskaambulanta\bin\Debug\net6.0\AutoMapper.dll
+C:\Users\Lazar\OneDrive\Desktop\poslednja verzija\eveterinarskaambulanta\bin\Debug\net6.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\Lazar\OneDrive\Desktop\poslednja verzija\eveterinarskaambulanta\bin\Debug\net6.0\Humanizer.dll
+C:\Users\Lazar\OneDrive\Desktop\poslednja verzija\eveterinarskaambulanta\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\Lazar\OneDrive\Desktop\poslednja verzija\eveterinarskaambulanta\bin\Debug\net6.0\Microsoft.Data.Sqlite.dll
+C:\Users\Lazar\OneDrive\Desktop\poslednja verzija\eveterinarskaambulanta\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Lazar\OneDrive\Desktop\poslednja verzija\eveterinarskaambulanta\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Lazar\OneDrive\Desktop\poslednja verzija\eveterinarskaambulanta\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Lazar\OneDrive\Desktop\poslednja verzija\eveterinarskaambulanta\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Lazar\OneDrive\Desktop\poslednja verzija\eveterinarskaambulanta\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Sqlite.dll
+C:\Users\Lazar\OneDrive\Desktop\poslednja verzija\eveterinarskaambulanta\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Lazar\OneDrive\Desktop\poslednja verzija\eveterinarskaambulanta\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Lazar\OneDrive\Desktop\poslednja verzija\eveterinarskaambulanta\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\Lazar\OneDrive\Desktop\poslednja verzija\eveterinarskaambulanta\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\Lazar\OneDrive\Desktop\poslednja verzija\eveterinarskaambulanta\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Lazar\OneDrive\Desktop\poslednja verzija\eveterinarskaambulanta\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Lazar\OneDrive\Desktop\poslednja verzija\eveterinarskaambulanta\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Lazar\OneDrive\Desktop\poslednja verzija\eveterinarskaambulanta\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Lazar\OneDrive\Desktop\poslednja verzija\eveterinarskaambulanta\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Lazar\OneDrive\Desktop\poslednja verzija\eveterinarskaambulanta\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\Lazar\OneDrive\Desktop\poslednja verzija\eveterinarskaambulanta\bin\Debug\net6.0\SQLitePCLRaw.batteries_v2.dll
+C:\Users\Lazar\OneDrive\Desktop\poslednja verzija\eveterinarskaambulanta\bin\Debug\net6.0\SQLitePCLRaw.core.dll
+C:\Users\Lazar\OneDrive\Desktop\poslednja verzija\eveterinarskaambulanta\bin\Debug\net6.0\SQLitePCLRaw.provider.e_sqlite3.dll
+C:\Users\Lazar\OneDrive\Desktop\poslednja verzija\eveterinarskaambulanta\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Lazar\OneDrive\Desktop\poslednja verzija\eveterinarskaambulanta\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Lazar\OneDrive\Desktop\poslednja verzija\eveterinarskaambulanta\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Lazar\OneDrive\Desktop\poslednja verzija\eveterinarskaambulanta\bin\Debug\net6.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Lazar\OneDrive\Desktop\poslednja verzija\eveterinarskaambulanta\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Lazar\OneDrive\Desktop\poslednja verzija\eveterinarskaambulanta\bin\Debug\net6.0\runtimes\alpine-arm\native\libe_sqlite3.so
+C:\Users\Lazar\OneDrive\Desktop\poslednja verzija\eveterinarskaambulanta\bin\Debug\net6.0\runtimes\alpine-arm64\native\libe_sqlite3.so
+C:\Users\Lazar\OneDrive\Desktop\poslednja verzija\eveterinarskaambulanta\bin\Debug\net6.0\runtimes\alpine-x64\native\libe_sqlite3.so
+C:\Users\Lazar\OneDrive\Desktop\poslednja verzija\eveterinarskaambulanta\bin\Debug\net6.0\runtimes\browser-wasm\nativeassets\net6.0\e_sqlite3.a
+C:\Users\Lazar\OneDrive\Desktop\poslednja verzija\eveterinarskaambulanta\bin\Debug\net6.0\runtimes\linux-arm\native\libe_sqlite3.so
+C:\Users\Lazar\OneDrive\Desktop\poslednja verzija\eveterinarskaambulanta\bin\Debug\net6.0\runtimes\linux-arm64\native\libe_sqlite3.so
+C:\Users\Lazar\OneDrive\Desktop\poslednja verzija\eveterinarskaambulanta\bin\Debug\net6.0\runtimes\linux-armel\native\libe_sqlite3.so
+C:\Users\Lazar\OneDrive\Desktop\poslednja verzija\eveterinarskaambulanta\bin\Debug\net6.0\runtimes\linux-mips64\native\libe_sqlite3.so
+C:\Users\Lazar\OneDrive\Desktop\poslednja verzija\eveterinarskaambulanta\bin\Debug\net6.0\runtimes\linux-musl-arm\native\libe_sqlite3.so
+C:\Users\Lazar\OneDrive\Desktop\poslednja verzija\eveterinarskaambulanta\bin\Debug\net6.0\runtimes\linux-musl-arm64\native\libe_sqlite3.so
+C:\Users\Lazar\OneDrive\Desktop\poslednja verzija\eveterinarskaambulanta\bin\Debug\net6.0\runtimes\linux-musl-x64\native\libe_sqlite3.so
+C:\Users\Lazar\OneDrive\Desktop\poslednja verzija\eveterinarskaambulanta\bin\Debug\net6.0\runtimes\linux-s390x\native\libe_sqlite3.so
+C:\Users\Lazar\OneDrive\Desktop\poslednja verzija\eveterinarskaambulanta\bin\Debug\net6.0\runtimes\linux-x64\native\libe_sqlite3.so
+C:\Users\Lazar\OneDrive\Desktop\poslednja verzija\eveterinarskaambulanta\bin\Debug\net6.0\runtimes\linux-x86\native\libe_sqlite3.so
+C:\Users\Lazar\OneDrive\Desktop\poslednja verzija\eveterinarskaambulanta\bin\Debug\net6.0\runtimes\maccatalyst-arm64\native\libe_sqlite3.dylib
+C:\Users\Lazar\OneDrive\Desktop\poslednja verzija\eveterinarskaambulanta\bin\Debug\net6.0\runtimes\maccatalyst-x64\native\libe_sqlite3.dylib
+C:\Users\Lazar\OneDrive\Desktop\poslednja verzija\eveterinarskaambulanta\bin\Debug\net6.0\runtimes\osx-arm64\native\libe_sqlite3.dylib
+C:\Users\Lazar\OneDrive\Desktop\poslednja verzija\eveterinarskaambulanta\bin\Debug\net6.0\runtimes\osx-x64\native\libe_sqlite3.dylib
+C:\Users\Lazar\OneDrive\Desktop\poslednja verzija\eveterinarskaambulanta\bin\Debug\net6.0\runtimes\win-arm\native\e_sqlite3.dll
+C:\Users\Lazar\OneDrive\Desktop\poslednja verzija\eveterinarskaambulanta\bin\Debug\net6.0\runtimes\win-arm64\native\e_sqlite3.dll
+C:\Users\Lazar\OneDrive\Desktop\poslednja verzija\eveterinarskaambulanta\bin\Debug\net6.0\runtimes\win-x64\native\e_sqlite3.dll
+C:\Users\Lazar\OneDrive\Desktop\poslednja verzija\eveterinarskaambulanta\bin\Debug\net6.0\runtimes\win-x86\native\e_sqlite3.dll
+C:\Users\Lazar\OneDrive\Desktop\poslednja verzija\eveterinarskaambulanta\obj\Debug\net6.0\eVeterinarskaAmbulanta.csproj.AssemblyReference.cache
+C:\Users\Lazar\OneDrive\Desktop\poslednja verzija\eveterinarskaambulanta\obj\Debug\net6.0\eVeterinarskaAmbulanta.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lazar\OneDrive\Desktop\poslednja verzija\eveterinarskaambulanta\obj\Debug\net6.0\eVeterinarskaAmbulanta.AssemblyInfoInputs.cache
+C:\Users\Lazar\OneDrive\Desktop\poslednja verzija\eveterinarskaambulanta\obj\Debug\net6.0\eVeterinarskaAmbulanta.AssemblyInfo.cs
+C:\Users\Lazar\OneDrive\Desktop\poslednja verzija\eveterinarskaambulanta\obj\Debug\net6.0\eVeterinarskaAmbulanta.csproj.CoreCompileInputs.cache
+C:\Users\Lazar\OneDrive\Desktop\poslednja verzija\eveterinarskaambulanta\obj\Debug\net6.0\eVeterinarskaAmbulanta.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Lazar\OneDrive\Desktop\poslednja verzija\eveterinarskaambulanta\obj\Debug\net6.0\eVeterinarskaAmbulanta.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Lazar\OneDrive\Desktop\poslednja verzija\eveterinarskaambulanta\obj\Debug\net6.0\staticwebassets\msbuild.eVeterinarskaAmbulanta.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Lazar\OneDrive\Desktop\poslednja verzija\eveterinarskaambulanta\obj\Debug\net6.0\staticwebassets\msbuild.build.eVeterinarskaAmbulanta.props
+C:\Users\Lazar\OneDrive\Desktop\poslednja verzija\eveterinarskaambulanta\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.eVeterinarskaAmbulanta.props
+C:\Users\Lazar\OneDrive\Desktop\poslednja verzija\eveterinarskaambulanta\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.eVeterinarskaAmbulanta.props
+C:\Users\Lazar\OneDrive\Desktop\poslednja verzija\eveterinarskaambulanta\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\Lazar\OneDrive\Desktop\poslednja verzija\eveterinarskaambulanta\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\Lazar\OneDrive\Desktop\poslednja verzija\eveterinarskaambulanta\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\Lazar\OneDrive\Desktop\poslednja verzija\eveterinarskaambulanta\obj\Debug\net6.0\scopedcss\bundle\eVeterinarskaAmbulanta.styles.css
+C:\Users\Lazar\OneDrive\Desktop\poslednja verzija\eveterinarskaambulanta\obj\Debug\net6.0\eVeterinarskaAmbulanta.csproj.CopyComplete
+C:\Users\Lazar\OneDrive\Desktop\poslednja verzija\eveterinarskaambulanta\obj\Debug\net6.0\eVeterinarskaAmbulanta.dll
+C:\Users\Lazar\OneDrive\Desktop\poslednja verzija\eveterinarskaambulanta\obj\Debug\net6.0\refint\eVeterinarskaAmbulanta.dll
+C:\Users\Lazar\OneDrive\Desktop\poslednja verzija\eveterinarskaambulanta\obj\Debug\net6.0\eVeterinarskaAmbulanta.pdb
+C:\Users\Lazar\OneDrive\Desktop\poslednja verzija\eveterinarskaambulanta\obj\Debug\net6.0\eVeterinarskaAmbulanta.genruntimeconfig.cache
+C:\Users\Lazar\OneDrive\Desktop\poslednja verzija\eveterinarskaambulanta\obj\Debug\net6.0\ref\eVeterinarskaAmbulanta.dll
+C:\Users\Anja\Downloads\poslednja verzija\eVeterinarskaAmbulanta\obj\Debug\net6.0\eVeterinarskaAmbulanta.csproj.AssemblyReference.cache
+C:\Users\Anja\Downloads\poslednja verzija\eVeterinarskaAmbulanta\obj\Debug\net6.0\eVeterinarskaAmbulanta.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Anja\Downloads\poslednja verzija\eVeterinarskaAmbulanta\obj\Debug\net6.0\eVeterinarskaAmbulanta.AssemblyInfoInputs.cache
+C:\Users\Anja\Downloads\poslednja verzija\eVeterinarskaAmbulanta\obj\Debug\net6.0\eVeterinarskaAmbulanta.AssemblyInfo.cs
+C:\Users\Anja\Downloads\poslednja verzija\eVeterinarskaAmbulanta\obj\Debug\net6.0\eVeterinarskaAmbulanta.csproj.CoreCompileInputs.cache
+C:\Users\Anja\Downloads\poslednja verzija\eVeterinarskaAmbulanta\obj\Debug\net6.0\eVeterinarskaAmbulanta.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Anja\Downloads\poslednja verzija\eVeterinarskaAmbulanta\obj\Debug\net6.0\eVeterinarskaAmbulanta.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Anja\Downloads\poslednja verzija\eVeterinarskaAmbulanta\obj\Debug\net6.0\eVeterinarskaAmbulanta.dll
+C:\Users\Anja\Downloads\poslednja verzija\eVeterinarskaAmbulanta\obj\Debug\net6.0\refint\eVeterinarskaAmbulanta.dll
+C:\Users\Anja\Downloads\poslednja verzija\eVeterinarskaAmbulanta\obj\Debug\net6.0\eVeterinarskaAmbulanta.pdb
+C:\Users\Anja\Downloads\poslednja verzija\eVeterinarskaAmbulanta\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\Anja\Downloads\poslednja verzija\eVeterinarskaAmbulanta\bin\Debug\net6.0\appsettings.json
+C:\Users\Anja\Downloads\poslednja verzija\eVeterinarskaAmbulanta\bin\Debug\net6.0\eVeterinarskaAmbulanta.exe
+C:\Users\Anja\Downloads\poslednja verzija\eVeterinarskaAmbulanta\bin\Debug\net6.0\eVeterinarskaAmbulanta.deps.json
+C:\Users\Anja\Downloads\poslednja verzija\eVeterinarskaAmbulanta\bin\Debug\net6.0\eVeterinarskaAmbulanta.runtimeconfig.json
+C:\Users\Anja\Downloads\poslednja verzija\eVeterinarskaAmbulanta\bin\Debug\net6.0\eVeterinarskaAmbulanta.dll
+C:\Users\Anja\Downloads\poslednja verzija\eVeterinarskaAmbulanta\bin\Debug\net6.0\eVeterinarskaAmbulanta.pdb
+C:\Users\Anja\Downloads\poslednja verzija\eVeterinarskaAmbulanta\bin\Debug\net6.0\AutoMapper.dll
+C:\Users\Anja\Downloads\poslednja verzija\eVeterinarskaAmbulanta\bin\Debug\net6.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\Anja\Downloads\poslednja verzija\eVeterinarskaAmbulanta\bin\Debug\net6.0\Humanizer.dll
+C:\Users\Anja\Downloads\poslednja verzija\eVeterinarskaAmbulanta\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\Anja\Downloads\poslednja verzija\eVeterinarskaAmbulanta\bin\Debug\net6.0\Microsoft.Data.Sqlite.dll
+C:\Users\Anja\Downloads\poslednja verzija\eVeterinarskaAmbulanta\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Anja\Downloads\poslednja verzija\eVeterinarskaAmbulanta\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Anja\Downloads\poslednja verzija\eVeterinarskaAmbulanta\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Anja\Downloads\poslednja verzija\eVeterinarskaAmbulanta\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Anja\Downloads\poslednja verzija\eVeterinarskaAmbulanta\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Sqlite.dll
+C:\Users\Anja\Downloads\poslednja verzija\eVeterinarskaAmbulanta\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Anja\Downloads\poslednja verzija\eVeterinarskaAmbulanta\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Anja\Downloads\poslednja verzija\eVeterinarskaAmbulanta\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\Anja\Downloads\poslednja verzija\eVeterinarskaAmbulanta\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\Anja\Downloads\poslednja verzija\eVeterinarskaAmbulanta\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Anja\Downloads\poslednja verzija\eVeterinarskaAmbulanta\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Anja\Downloads\poslednja verzija\eVeterinarskaAmbulanta\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Anja\Downloads\poslednja verzija\eVeterinarskaAmbulanta\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Anja\Downloads\poslednja verzija\eVeterinarskaAmbulanta\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Anja\Downloads\poslednja verzija\eVeterinarskaAmbulanta\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\Anja\Downloads\poslednja verzija\eVeterinarskaAmbulanta\bin\Debug\net6.0\SQLitePCLRaw.batteries_v2.dll
+C:\Users\Anja\Downloads\poslednja verzija\eVeterinarskaAmbulanta\bin\Debug\net6.0\SQLitePCLRaw.core.dll
+C:\Users\Anja\Downloads\poslednja verzija\eVeterinarskaAmbulanta\bin\Debug\net6.0\SQLitePCLRaw.provider.e_sqlite3.dll
+C:\Users\Anja\Downloads\poslednja verzija\eVeterinarskaAmbulanta\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Anja\Downloads\poslednja verzija\eVeterinarskaAmbulanta\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Anja\Downloads\poslednja verzija\eVeterinarskaAmbulanta\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Anja\Downloads\poslednja verzija\eVeterinarskaAmbulanta\bin\Debug\net6.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Anja\Downloads\poslednja verzija\eVeterinarskaAmbulanta\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Anja\Downloads\poslednja verzija\eVeterinarskaAmbulanta\bin\Debug\net6.0\runtimes\alpine-arm\native\libe_sqlite3.so
+C:\Users\Anja\Downloads\poslednja verzija\eVeterinarskaAmbulanta\bin\Debug\net6.0\runtimes\alpine-arm64\native\libe_sqlite3.so
+C:\Users\Anja\Downloads\poslednja verzija\eVeterinarskaAmbulanta\bin\Debug\net6.0\runtimes\alpine-x64\native\libe_sqlite3.so
+C:\Users\Anja\Downloads\poslednja verzija\eVeterinarskaAmbulanta\bin\Debug\net6.0\runtimes\browser-wasm\nativeassets\net6.0\e_sqlite3.a
+C:\Users\Anja\Downloads\poslednja verzija\eVeterinarskaAmbulanta\bin\Debug\net6.0\runtimes\linux-arm\native\libe_sqlite3.so
+C:\Users\Anja\Downloads\poslednja verzija\eVeterinarskaAmbulanta\bin\Debug\net6.0\runtimes\linux-arm64\native\libe_sqlite3.so
+C:\Users\Anja\Downloads\poslednja verzija\eVeterinarskaAmbulanta\bin\Debug\net6.0\runtimes\linux-armel\native\libe_sqlite3.so
+C:\Users\Anja\Downloads\poslednja verzija\eVeterinarskaAmbulanta\bin\Debug\net6.0\runtimes\linux-mips64\native\libe_sqlite3.so
+C:\Users\Anja\Downloads\poslednja verzija\eVeterinarskaAmbulanta\bin\Debug\net6.0\runtimes\linux-musl-arm\native\libe_sqlite3.so
+C:\Users\Anja\Downloads\poslednja verzija\eVeterinarskaAmbulanta\bin\Debug\net6.0\runtimes\linux-musl-arm64\native\libe_sqlite3.so
+C:\Users\Anja\Downloads\poslednja verzija\eVeterinarskaAmbulanta\bin\Debug\net6.0\runtimes\linux-musl-x64\native\libe_sqlite3.so
+C:\Users\Anja\Downloads\poslednja verzija\eVeterinarskaAmbulanta\bin\Debug\net6.0\runtimes\linux-s390x\native\libe_sqlite3.so
+C:\Users\Anja\Downloads\poslednja verzija\eVeterinarskaAmbulanta\bin\Debug\net6.0\runtimes\linux-x64\native\libe_sqlite3.so
+C:\Users\Anja\Downloads\poslednja verzija\eVeterinarskaAmbulanta\bin\Debug\net6.0\runtimes\linux-x86\native\libe_sqlite3.so
+C:\Users\Anja\Downloads\poslednja verzija\eVeterinarskaAmbulanta\bin\Debug\net6.0\runtimes\maccatalyst-arm64\native\libe_sqlite3.dylib
+C:\Users\Anja\Downloads\poslednja verzija\eVeterinarskaAmbulanta\bin\Debug\net6.0\runtimes\maccatalyst-x64\native\libe_sqlite3.dylib
+C:\Users\Anja\Downloads\poslednja verzija\eVeterinarskaAmbulanta\bin\Debug\net6.0\runtimes\osx-arm64\native\libe_sqlite3.dylib
+C:\Users\Anja\Downloads\poslednja verzija\eVeterinarskaAmbulanta\bin\Debug\net6.0\runtimes\osx-x64\native\libe_sqlite3.dylib
+C:\Users\Anja\Downloads\poslednja verzija\eVeterinarskaAmbulanta\bin\Debug\net6.0\runtimes\win-arm\native\e_sqlite3.dll
+C:\Users\Anja\Downloads\poslednja verzija\eVeterinarskaAmbulanta\bin\Debug\net6.0\runtimes\win-arm64\native\e_sqlite3.dll
+C:\Users\Anja\Downloads\poslednja verzija\eVeterinarskaAmbulanta\bin\Debug\net6.0\runtimes\win-x64\native\e_sqlite3.dll
+C:\Users\Anja\Downloads\poslednja verzija\eVeterinarskaAmbulanta\bin\Debug\net6.0\runtimes\win-x86\native\e_sqlite3.dll
+C:\Users\Anja\Downloads\poslednja verzija\eVeterinarskaAmbulanta\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\Anja\Downloads\poslednja verzija\eVeterinarskaAmbulanta\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\Anja\Downloads\poslednja verzija\eVeterinarskaAmbulanta\obj\Debug\net6.0\scopedcss\bundle\eVeterinarskaAmbulanta.styles.css
+C:\Users\Anja\Downloads\poslednja verzija\eVeterinarskaAmbulanta\obj\Debug\net6.0\eVeterinarskaAmbulanta.csproj.CopyComplete
+C:\Users\Anja\Downloads\poslednja verzija\eVeterinarskaAmbulanta\obj\Debug\net6.0\eVeterinarskaAmbulanta.genruntimeconfig.cache
+C:\Users\Anja\Downloads\poslednja verzija\eVeterinarskaAmbulanta\obj\Debug\net6.0\ref\eVeterinarskaAmbulanta.dll
+C:\Users\Lazar\OneDrive\Desktop\vet reg\poslednja verzija\eveterinarskaambulanta\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\Lazar\OneDrive\Desktop\vet reg\poslednja verzija\eveterinarskaambulanta\bin\Debug\net6.0\appsettings.json
+C:\Users\Lazar\OneDrive\Desktop\vet reg\poslednja verzija\eveterinarskaambulanta\bin\Debug\net6.0\eVeterinarskaAmbulanta.exe
+C:\Users\Lazar\OneDrive\Desktop\vet reg\poslednja verzija\eveterinarskaambulanta\bin\Debug\net6.0\eVeterinarskaAmbulanta.deps.json
+C:\Users\Lazar\OneDrive\Desktop\vet reg\poslednja verzija\eveterinarskaambulanta\bin\Debug\net6.0\eVeterinarskaAmbulanta.runtimeconfig.json
+C:\Users\Lazar\OneDrive\Desktop\vet reg\poslednja verzija\eveterinarskaambulanta\bin\Debug\net6.0\eVeterinarskaAmbulanta.dll
+C:\Users\Lazar\OneDrive\Desktop\vet reg\poslednja verzija\eveterinarskaambulanta\bin\Debug\net6.0\eVeterinarskaAmbulanta.pdb
+C:\Users\Lazar\OneDrive\Desktop\vet reg\poslednja verzija\eveterinarskaambulanta\bin\Debug\net6.0\AutoMapper.dll
+C:\Users\Lazar\OneDrive\Desktop\vet reg\poslednja verzija\eveterinarskaambulanta\bin\Debug\net6.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\Lazar\OneDrive\Desktop\vet reg\poslednja verzija\eveterinarskaambulanta\bin\Debug\net6.0\Humanizer.dll
+C:\Users\Lazar\OneDrive\Desktop\vet reg\poslednja verzija\eveterinarskaambulanta\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\Lazar\OneDrive\Desktop\vet reg\poslednja verzija\eveterinarskaambulanta\bin\Debug\net6.0\Microsoft.Data.Sqlite.dll
+C:\Users\Lazar\OneDrive\Desktop\vet reg\poslednja verzija\eveterinarskaambulanta\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Lazar\OneDrive\Desktop\vet reg\poslednja verzija\eveterinarskaambulanta\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Lazar\OneDrive\Desktop\vet reg\poslednja verzija\eveterinarskaambulanta\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Lazar\OneDrive\Desktop\vet reg\poslednja verzija\eveterinarskaambulanta\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Lazar\OneDrive\Desktop\vet reg\poslednja verzija\eveterinarskaambulanta\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Sqlite.dll
+C:\Users\Lazar\OneDrive\Desktop\vet reg\poslednja verzija\eveterinarskaambulanta\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Lazar\OneDrive\Desktop\vet reg\poslednja verzija\eveterinarskaambulanta\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Lazar\OneDrive\Desktop\vet reg\poslednja verzija\eveterinarskaambulanta\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\Lazar\OneDrive\Desktop\vet reg\poslednja verzija\eveterinarskaambulanta\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\Lazar\OneDrive\Desktop\vet reg\poslednja verzija\eveterinarskaambulanta\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Lazar\OneDrive\Desktop\vet reg\poslednja verzija\eveterinarskaambulanta\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Lazar\OneDrive\Desktop\vet reg\poslednja verzija\eveterinarskaambulanta\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Lazar\OneDrive\Desktop\vet reg\poslednja verzija\eveterinarskaambulanta\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Lazar\OneDrive\Desktop\vet reg\poslednja verzija\eveterinarskaambulanta\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Lazar\OneDrive\Desktop\vet reg\poslednja verzija\eveterinarskaambulanta\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\Lazar\OneDrive\Desktop\vet reg\poslednja verzija\eveterinarskaambulanta\bin\Debug\net6.0\SQLitePCLRaw.batteries_v2.dll
+C:\Users\Lazar\OneDrive\Desktop\vet reg\poslednja verzija\eveterinarskaambulanta\bin\Debug\net6.0\SQLitePCLRaw.core.dll
+C:\Users\Lazar\OneDrive\Desktop\vet reg\poslednja verzija\eveterinarskaambulanta\bin\Debug\net6.0\SQLitePCLRaw.provider.e_sqlite3.dll
+C:\Users\Lazar\OneDrive\Desktop\vet reg\poslednja verzija\eveterinarskaambulanta\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Lazar\OneDrive\Desktop\vet reg\poslednja verzija\eveterinarskaambulanta\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Lazar\OneDrive\Desktop\vet reg\poslednja verzija\eveterinarskaambulanta\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Lazar\OneDrive\Desktop\vet reg\poslednja verzija\eveterinarskaambulanta\bin\Debug\net6.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Lazar\OneDrive\Desktop\vet reg\poslednja verzija\eveterinarskaambulanta\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Lazar\OneDrive\Desktop\vet reg\poslednja verzija\eveterinarskaambulanta\bin\Debug\net6.0\runtimes\alpine-arm\native\libe_sqlite3.so
+C:\Users\Lazar\OneDrive\Desktop\vet reg\poslednja verzija\eveterinarskaambulanta\bin\Debug\net6.0\runtimes\alpine-arm64\native\libe_sqlite3.so
+C:\Users\Lazar\OneDrive\Desktop\vet reg\poslednja verzija\eveterinarskaambulanta\bin\Debug\net6.0\runtimes\alpine-x64\native\libe_sqlite3.so
+C:\Users\Lazar\OneDrive\Desktop\vet reg\poslednja verzija\eveterinarskaambulanta\bin\Debug\net6.0\runtimes\browser-wasm\nativeassets\net6.0\e_sqlite3.a
+C:\Users\Lazar\OneDrive\Desktop\vet reg\poslednja verzija\eveterinarskaambulanta\bin\Debug\net6.0\runtimes\linux-arm\native\libe_sqlite3.so
+C:\Users\Lazar\OneDrive\Desktop\vet reg\poslednja verzija\eveterinarskaambulanta\bin\Debug\net6.0\runtimes\linux-arm64\native\libe_sqlite3.so
+C:\Users\Lazar\OneDrive\Desktop\vet reg\poslednja verzija\eveterinarskaambulanta\bin\Debug\net6.0\runtimes\linux-armel\native\libe_sqlite3.so
+C:\Users\Lazar\OneDrive\Desktop\vet reg\poslednja verzija\eveterinarskaambulanta\bin\Debug\net6.0\runtimes\linux-mips64\native\libe_sqlite3.so
+C:\Users\Lazar\OneDrive\Desktop\vet reg\poslednja verzija\eveterinarskaambulanta\bin\Debug\net6.0\runtimes\linux-musl-arm\native\libe_sqlite3.so
+C:\Users\Lazar\OneDrive\Desktop\vet reg\poslednja verzija\eveterinarskaambulanta\bin\Debug\net6.0\runtimes\linux-musl-arm64\native\libe_sqlite3.so
+C:\Users\Lazar\OneDrive\Desktop\vet reg\poslednja verzija\eveterinarskaambulanta\bin\Debug\net6.0\runtimes\linux-musl-x64\native\libe_sqlite3.so
+C:\Users\Lazar\OneDrive\Desktop\vet reg\poslednja verzija\eveterinarskaambulanta\bin\Debug\net6.0\runtimes\linux-s390x\native\libe_sqlite3.so
+C:\Users\Lazar\OneDrive\Desktop\vet reg\poslednja verzija\eveterinarskaambulanta\bin\Debug\net6.0\runtimes\linux-x64\native\libe_sqlite3.so
+C:\Users\Lazar\OneDrive\Desktop\vet reg\poslednja verzija\eveterinarskaambulanta\bin\Debug\net6.0\runtimes\linux-x86\native\libe_sqlite3.so
+C:\Users\Lazar\OneDrive\Desktop\vet reg\poslednja verzija\eveterinarskaambulanta\bin\Debug\net6.0\runtimes\maccatalyst-arm64\native\libe_sqlite3.dylib
+C:\Users\Lazar\OneDrive\Desktop\vet reg\poslednja verzija\eveterinarskaambulanta\bin\Debug\net6.0\runtimes\maccatalyst-x64\native\libe_sqlite3.dylib
+C:\Users\Lazar\OneDrive\Desktop\vet reg\poslednja verzija\eveterinarskaambulanta\bin\Debug\net6.0\runtimes\osx-arm64\native\libe_sqlite3.dylib
+C:\Users\Lazar\OneDrive\Desktop\vet reg\poslednja verzija\eveterinarskaambulanta\bin\Debug\net6.0\runtimes\osx-x64\native\libe_sqlite3.dylib
+C:\Users\Lazar\OneDrive\Desktop\vet reg\poslednja verzija\eveterinarskaambulanta\bin\Debug\net6.0\runtimes\win-arm\native\e_sqlite3.dll
+C:\Users\Lazar\OneDrive\Desktop\vet reg\poslednja verzija\eveterinarskaambulanta\bin\Debug\net6.0\runtimes\win-arm64\native\e_sqlite3.dll
+C:\Users\Lazar\OneDrive\Desktop\vet reg\poslednja verzija\eveterinarskaambulanta\bin\Debug\net6.0\runtimes\win-x64\native\e_sqlite3.dll
+C:\Users\Lazar\OneDrive\Desktop\vet reg\poslednja verzija\eveterinarskaambulanta\bin\Debug\net6.0\runtimes\win-x86\native\e_sqlite3.dll
+C:\Users\Lazar\OneDrive\Desktop\vet reg\poslednja verzija\eveterinarskaambulanta\obj\Debug\net6.0\eVeterinarskaAmbulanta.csproj.AssemblyReference.cache
+C:\Users\Lazar\OneDrive\Desktop\vet reg\poslednja verzija\eveterinarskaambulanta\obj\Debug\net6.0\eVeterinarskaAmbulanta.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lazar\OneDrive\Desktop\vet reg\poslednja verzija\eveterinarskaambulanta\obj\Debug\net6.0\eVeterinarskaAmbulanta.AssemblyInfoInputs.cache
+C:\Users\Lazar\OneDrive\Desktop\vet reg\poslednja verzija\eveterinarskaambulanta\obj\Debug\net6.0\eVeterinarskaAmbulanta.AssemblyInfo.cs
+C:\Users\Lazar\OneDrive\Desktop\vet reg\poslednja verzija\eveterinarskaambulanta\obj\Debug\net6.0\eVeterinarskaAmbulanta.csproj.CoreCompileInputs.cache
+C:\Users\Lazar\OneDrive\Desktop\vet reg\poslednja verzija\eveterinarskaambulanta\obj\Debug\net6.0\eVeterinarskaAmbulanta.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Lazar\OneDrive\Desktop\vet reg\poslednja verzija\eveterinarskaambulanta\obj\Debug\net6.0\eVeterinarskaAmbulanta.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Lazar\OneDrive\Desktop\vet reg\poslednja verzija\eveterinarskaambulanta\obj\Debug\net6.0\staticwebassets\msbuild.eVeterinarskaAmbulanta.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Lazar\OneDrive\Desktop\vet reg\poslednja verzija\eveterinarskaambulanta\obj\Debug\net6.0\staticwebassets\msbuild.build.eVeterinarskaAmbulanta.props
+C:\Users\Lazar\OneDrive\Desktop\vet reg\poslednja verzija\eveterinarskaambulanta\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.eVeterinarskaAmbulanta.props
+C:\Users\Lazar\OneDrive\Desktop\vet reg\poslednja verzija\eveterinarskaambulanta\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.eVeterinarskaAmbulanta.props
+C:\Users\Lazar\OneDrive\Desktop\vet reg\poslednja verzija\eveterinarskaambulanta\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\Lazar\OneDrive\Desktop\vet reg\poslednja verzija\eveterinarskaambulanta\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\Lazar\OneDrive\Desktop\vet reg\poslednja verzija\eveterinarskaambulanta\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\Lazar\OneDrive\Desktop\vet reg\poslednja verzija\eveterinarskaambulanta\obj\Debug\net6.0\scopedcss\bundle\eVeterinarskaAmbulanta.styles.css
+C:\Users\Lazar\OneDrive\Desktop\vet reg\poslednja verzija\eveterinarskaambulanta\obj\Debug\net6.0\eVeterinarskaAmbulanta.csproj.CopyComplete
+C:\Users\Lazar\OneDrive\Desktop\vet reg\poslednja verzija\eveterinarskaambulanta\obj\Debug\net6.0\eVeterinarskaAmbulanta.dll
+C:\Users\Lazar\OneDrive\Desktop\vet reg\poslednja verzija\eveterinarskaambulanta\obj\Debug\net6.0\refint\eVeterinarskaAmbulanta.dll
+C:\Users\Lazar\OneDrive\Desktop\vet reg\poslednja verzija\eveterinarskaambulanta\obj\Debug\net6.0\eVeterinarskaAmbulanta.pdb
+C:\Users\Lazar\OneDrive\Desktop\vet reg\poslednja verzija\eveterinarskaambulanta\obj\Debug\net6.0\eVeterinarskaAmbulanta.genruntimeconfig.cache
+C:\Users\Lazar\OneDrive\Desktop\vet reg\poslednja verzija\eveterinarskaambulanta\obj\Debug\net6.0\ref\eVeterinarskaAmbulanta.dll
+C:\Users\Lazar\OneDrive\Desktop\hm\eVeterinarskaAmbulanta\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\Lazar\OneDrive\Desktop\hm\eVeterinarskaAmbulanta\bin\Debug\net6.0\appsettings.json
+C:\Users\Lazar\OneDrive\Desktop\hm\eVeterinarskaAmbulanta\bin\Debug\net6.0\eVeterinarskaAmbulanta.exe
+C:\Users\Lazar\OneDrive\Desktop\hm\eVeterinarskaAmbulanta\bin\Debug\net6.0\eVeterinarskaAmbulanta.deps.json
+C:\Users\Lazar\OneDrive\Desktop\hm\eVeterinarskaAmbulanta\bin\Debug\net6.0\eVeterinarskaAmbulanta.runtimeconfig.json
+C:\Users\Lazar\OneDrive\Desktop\hm\eVeterinarskaAmbulanta\bin\Debug\net6.0\eVeterinarskaAmbulanta.dll
+C:\Users\Lazar\OneDrive\Desktop\hm\eVeterinarskaAmbulanta\bin\Debug\net6.0\eVeterinarskaAmbulanta.pdb
+C:\Users\Lazar\OneDrive\Desktop\hm\eVeterinarskaAmbulanta\bin\Debug\net6.0\AutoMapper.dll
+C:\Users\Lazar\OneDrive\Desktop\hm\eVeterinarskaAmbulanta\bin\Debug\net6.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\Lazar\OneDrive\Desktop\hm\eVeterinarskaAmbulanta\bin\Debug\net6.0\Humanizer.dll
+C:\Users\Lazar\OneDrive\Desktop\hm\eVeterinarskaAmbulanta\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\Lazar\OneDrive\Desktop\hm\eVeterinarskaAmbulanta\bin\Debug\net6.0\Microsoft.Data.Sqlite.dll
+C:\Users\Lazar\OneDrive\Desktop\hm\eVeterinarskaAmbulanta\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Lazar\OneDrive\Desktop\hm\eVeterinarskaAmbulanta\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Lazar\OneDrive\Desktop\hm\eVeterinarskaAmbulanta\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Lazar\OneDrive\Desktop\hm\eVeterinarskaAmbulanta\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Lazar\OneDrive\Desktop\hm\eVeterinarskaAmbulanta\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Sqlite.dll
+C:\Users\Lazar\OneDrive\Desktop\hm\eVeterinarskaAmbulanta\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Lazar\OneDrive\Desktop\hm\eVeterinarskaAmbulanta\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Lazar\OneDrive\Desktop\hm\eVeterinarskaAmbulanta\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\Lazar\OneDrive\Desktop\hm\eVeterinarskaAmbulanta\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\Lazar\OneDrive\Desktop\hm\eVeterinarskaAmbulanta\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Lazar\OneDrive\Desktop\hm\eVeterinarskaAmbulanta\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Lazar\OneDrive\Desktop\hm\eVeterinarskaAmbulanta\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Lazar\OneDrive\Desktop\hm\eVeterinarskaAmbulanta\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Lazar\OneDrive\Desktop\hm\eVeterinarskaAmbulanta\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Lazar\OneDrive\Desktop\hm\eVeterinarskaAmbulanta\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\Lazar\OneDrive\Desktop\hm\eVeterinarskaAmbulanta\bin\Debug\net6.0\SQLitePCLRaw.batteries_v2.dll
+C:\Users\Lazar\OneDrive\Desktop\hm\eVeterinarskaAmbulanta\bin\Debug\net6.0\SQLitePCLRaw.core.dll
+C:\Users\Lazar\OneDrive\Desktop\hm\eVeterinarskaAmbulanta\bin\Debug\net6.0\SQLitePCLRaw.provider.e_sqlite3.dll
+C:\Users\Lazar\OneDrive\Desktop\hm\eVeterinarskaAmbulanta\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Lazar\OneDrive\Desktop\hm\eVeterinarskaAmbulanta\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Lazar\OneDrive\Desktop\hm\eVeterinarskaAmbulanta\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Lazar\OneDrive\Desktop\hm\eVeterinarskaAmbulanta\bin\Debug\net6.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Lazar\OneDrive\Desktop\hm\eVeterinarskaAmbulanta\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Lazar\OneDrive\Desktop\hm\eVeterinarskaAmbulanta\bin\Debug\net6.0\runtimes\alpine-arm\native\libe_sqlite3.so
+C:\Users\Lazar\OneDrive\Desktop\hm\eVeterinarskaAmbulanta\bin\Debug\net6.0\runtimes\alpine-arm64\native\libe_sqlite3.so
+C:\Users\Lazar\OneDrive\Desktop\hm\eVeterinarskaAmbulanta\bin\Debug\net6.0\runtimes\alpine-x64\native\libe_sqlite3.so
+C:\Users\Lazar\OneDrive\Desktop\hm\eVeterinarskaAmbulanta\bin\Debug\net6.0\runtimes\browser-wasm\nativeassets\net6.0\e_sqlite3.a
+C:\Users\Lazar\OneDrive\Desktop\hm\eVeterinarskaAmbulanta\bin\Debug\net6.0\runtimes\linux-arm\native\libe_sqlite3.so
+C:\Users\Lazar\OneDrive\Desktop\hm\eVeterinarskaAmbulanta\bin\Debug\net6.0\runtimes\linux-arm64\native\libe_sqlite3.so
+C:\Users\Lazar\OneDrive\Desktop\hm\eVeterinarskaAmbulanta\bin\Debug\net6.0\runtimes\linux-armel\native\libe_sqlite3.so
+C:\Users\Lazar\OneDrive\Desktop\hm\eVeterinarskaAmbulanta\bin\Debug\net6.0\runtimes\linux-mips64\native\libe_sqlite3.so
+C:\Users\Lazar\OneDrive\Desktop\hm\eVeterinarskaAmbulanta\bin\Debug\net6.0\runtimes\linux-musl-arm\native\libe_sqlite3.so
+C:\Users\Lazar\OneDrive\Desktop\hm\eVeterinarskaAmbulanta\bin\Debug\net6.0\runtimes\linux-musl-arm64\native\libe_sqlite3.so
+C:\Users\Lazar\OneDrive\Desktop\hm\eVeterinarskaAmbulanta\bin\Debug\net6.0\runtimes\linux-musl-x64\native\libe_sqlite3.so
+C:\Users\Lazar\OneDrive\Desktop\hm\eVeterinarskaAmbulanta\bin\Debug\net6.0\runtimes\linux-s390x\native\libe_sqlite3.so
+C:\Users\Lazar\OneDrive\Desktop\hm\eVeterinarskaAmbulanta\bin\Debug\net6.0\runtimes\linux-x64\native\libe_sqlite3.so
+C:\Users\Lazar\OneDrive\Desktop\hm\eVeterinarskaAmbulanta\bin\Debug\net6.0\runtimes\linux-x86\native\libe_sqlite3.so
+C:\Users\Lazar\OneDrive\Desktop\hm\eVeterinarskaAmbulanta\bin\Debug\net6.0\runtimes\maccatalyst-arm64\native\libe_sqlite3.dylib
+C:\Users\Lazar\OneDrive\Desktop\hm\eVeterinarskaAmbulanta\bin\Debug\net6.0\runtimes\maccatalyst-x64\native\libe_sqlite3.dylib
+C:\Users\Lazar\OneDrive\Desktop\hm\eVeterinarskaAmbulanta\bin\Debug\net6.0\runtimes\osx-arm64\native\libe_sqlite3.dylib
+C:\Users\Lazar\OneDrive\Desktop\hm\eVeterinarskaAmbulanta\bin\Debug\net6.0\runtimes\osx-x64\native\libe_sqlite3.dylib
+C:\Users\Lazar\OneDrive\Desktop\hm\eVeterinarskaAmbulanta\bin\Debug\net6.0\runtimes\win-arm\native\e_sqlite3.dll
+C:\Users\Lazar\OneDrive\Desktop\hm\eVeterinarskaAmbulanta\bin\Debug\net6.0\runtimes\win-arm64\native\e_sqlite3.dll
+C:\Users\Lazar\OneDrive\Desktop\hm\eVeterinarskaAmbulanta\bin\Debug\net6.0\runtimes\win-x64\native\e_sqlite3.dll
+C:\Users\Lazar\OneDrive\Desktop\hm\eVeterinarskaAmbulanta\bin\Debug\net6.0\runtimes\win-x86\native\e_sqlite3.dll
+C:\Users\Lazar\OneDrive\Desktop\hm\eVeterinarskaAmbulanta\obj\Debug\net6.0\eVeterinarskaAmbulanta.csproj.AssemblyReference.cache
+C:\Users\Lazar\OneDrive\Desktop\hm\eVeterinarskaAmbulanta\obj\Debug\net6.0\eVeterinarskaAmbulanta.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lazar\OneDrive\Desktop\hm\eVeterinarskaAmbulanta\obj\Debug\net6.0\eVeterinarskaAmbulanta.AssemblyInfoInputs.cache
+C:\Users\Lazar\OneDrive\Desktop\hm\eVeterinarskaAmbulanta\obj\Debug\net6.0\eVeterinarskaAmbulanta.AssemblyInfo.cs
+C:\Users\Lazar\OneDrive\Desktop\hm\eVeterinarskaAmbulanta\obj\Debug\net6.0\eVeterinarskaAmbulanta.csproj.CoreCompileInputs.cache
+C:\Users\Lazar\OneDrive\Desktop\hm\eVeterinarskaAmbulanta\obj\Debug\net6.0\eVeterinarskaAmbulanta.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Lazar\OneDrive\Desktop\hm\eVeterinarskaAmbulanta\obj\Debug\net6.0\eVeterinarskaAmbulanta.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Lazar\OneDrive\Desktop\hm\eVeterinarskaAmbulanta\obj\Debug\net6.0\staticwebassets\msbuild.eVeterinarskaAmbulanta.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Lazar\OneDrive\Desktop\hm\eVeterinarskaAmbulanta\obj\Debug\net6.0\staticwebassets\msbuild.build.eVeterinarskaAmbulanta.props
+C:\Users\Lazar\OneDrive\Desktop\hm\eVeterinarskaAmbulanta\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.eVeterinarskaAmbulanta.props
+C:\Users\Lazar\OneDrive\Desktop\hm\eVeterinarskaAmbulanta\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.eVeterinarskaAmbulanta.props
+C:\Users\Lazar\OneDrive\Desktop\hm\eVeterinarskaAmbulanta\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\Lazar\OneDrive\Desktop\hm\eVeterinarskaAmbulanta\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\Lazar\OneDrive\Desktop\hm\eVeterinarskaAmbulanta\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\Lazar\OneDrive\Desktop\hm\eVeterinarskaAmbulanta\obj\Debug\net6.0\scopedcss\bundle\eVeterinarskaAmbulanta.styles.css
+C:\Users\Lazar\OneDrive\Desktop\hm\eVeterinarskaAmbulanta\obj\Debug\net6.0\eVeterinarskaAmbulanta.csproj.CopyComplete
+C:\Users\Lazar\OneDrive\Desktop\hm\eVeterinarskaAmbulanta\obj\Debug\net6.0\eVeterinarskaAmbulanta.dll
+C:\Users\Lazar\OneDrive\Desktop\hm\eVeterinarskaAmbulanta\obj\Debug\net6.0\refint\eVeterinarskaAmbulanta.dll
+C:\Users\Lazar\OneDrive\Desktop\hm\eVeterinarskaAmbulanta\obj\Debug\net6.0\eVeterinarskaAmbulanta.pdb
+C:\Users\Lazar\OneDrive\Desktop\hm\eVeterinarskaAmbulanta\obj\Debug\net6.0\eVeterinarskaAmbulanta.genruntimeconfig.cache
+C:\Users\Lazar\OneDrive\Desktop\hm\eVeterinarskaAmbulanta\obj\Debug\net6.0\ref\eVeterinarskaAmbulanta.dll
+C:\Users\Lazar\OneDrive\Desktop\eVeterinarskaAmbulanta\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\Lazar\OneDrive\Desktop\eVeterinarskaAmbulanta\bin\Debug\net6.0\appsettings.json
+C:\Users\Lazar\OneDrive\Desktop\eVeterinarskaAmbulanta\bin\Debug\net6.0\eVeterinarskaAmbulanta.exe
+C:\Users\Lazar\OneDrive\Desktop\eVeterinarskaAmbulanta\bin\Debug\net6.0\eVeterinarskaAmbulanta.deps.json
+C:\Users\Lazar\OneDrive\Desktop\eVeterinarskaAmbulanta\bin\Debug\net6.0\eVeterinarskaAmbulanta.runtimeconfig.json
+C:\Users\Lazar\OneDrive\Desktop\eVeterinarskaAmbulanta\bin\Debug\net6.0\eVeterinarskaAmbulanta.dll
+C:\Users\Lazar\OneDrive\Desktop\eVeterinarskaAmbulanta\bin\Debug\net6.0\eVeterinarskaAmbulanta.pdb
+C:\Users\Lazar\OneDrive\Desktop\eVeterinarskaAmbulanta\bin\Debug\net6.0\AutoMapper.dll
+C:\Users\Lazar\OneDrive\Desktop\eVeterinarskaAmbulanta\bin\Debug\net6.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\Lazar\OneDrive\Desktop\eVeterinarskaAmbulanta\bin\Debug\net6.0\Humanizer.dll
+C:\Users\Lazar\OneDrive\Desktop\eVeterinarskaAmbulanta\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\Lazar\OneDrive\Desktop\eVeterinarskaAmbulanta\bin\Debug\net6.0\Microsoft.Data.Sqlite.dll
+C:\Users\Lazar\OneDrive\Desktop\eVeterinarskaAmbulanta\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Lazar\OneDrive\Desktop\eVeterinarskaAmbulanta\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Lazar\OneDrive\Desktop\eVeterinarskaAmbulanta\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Lazar\OneDrive\Desktop\eVeterinarskaAmbulanta\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Lazar\OneDrive\Desktop\eVeterinarskaAmbulanta\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Sqlite.dll
+C:\Users\Lazar\OneDrive\Desktop\eVeterinarskaAmbulanta\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Lazar\OneDrive\Desktop\eVeterinarskaAmbulanta\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Lazar\OneDrive\Desktop\eVeterinarskaAmbulanta\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\Lazar\OneDrive\Desktop\eVeterinarskaAmbulanta\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\Lazar\OneDrive\Desktop\eVeterinarskaAmbulanta\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Lazar\OneDrive\Desktop\eVeterinarskaAmbulanta\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Lazar\OneDrive\Desktop\eVeterinarskaAmbulanta\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Lazar\OneDrive\Desktop\eVeterinarskaAmbulanta\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Lazar\OneDrive\Desktop\eVeterinarskaAmbulanta\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Lazar\OneDrive\Desktop\eVeterinarskaAmbulanta\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\Lazar\OneDrive\Desktop\eVeterinarskaAmbulanta\bin\Debug\net6.0\SQLitePCLRaw.batteries_v2.dll
+C:\Users\Lazar\OneDrive\Desktop\eVeterinarskaAmbulanta\bin\Debug\net6.0\SQLitePCLRaw.core.dll
+C:\Users\Lazar\OneDrive\Desktop\eVeterinarskaAmbulanta\bin\Debug\net6.0\SQLitePCLRaw.provider.e_sqlite3.dll
+C:\Users\Lazar\OneDrive\Desktop\eVeterinarskaAmbulanta\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Lazar\OneDrive\Desktop\eVeterinarskaAmbulanta\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Lazar\OneDrive\Desktop\eVeterinarskaAmbulanta\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Lazar\OneDrive\Desktop\eVeterinarskaAmbulanta\bin\Debug\net6.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Lazar\OneDrive\Desktop\eVeterinarskaAmbulanta\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Lazar\OneDrive\Desktop\eVeterinarskaAmbulanta\bin\Debug\net6.0\runtimes\alpine-arm\native\libe_sqlite3.so
+C:\Users\Lazar\OneDrive\Desktop\eVeterinarskaAmbulanta\bin\Debug\net6.0\runtimes\alpine-arm64\native\libe_sqlite3.so
+C:\Users\Lazar\OneDrive\Desktop\eVeterinarskaAmbulanta\bin\Debug\net6.0\runtimes\alpine-x64\native\libe_sqlite3.so
+C:\Users\Lazar\OneDrive\Desktop\eVeterinarskaAmbulanta\bin\Debug\net6.0\runtimes\browser-wasm\nativeassets\net6.0\e_sqlite3.a
+C:\Users\Lazar\OneDrive\Desktop\eVeterinarskaAmbulanta\bin\Debug\net6.0\runtimes\linux-arm\native\libe_sqlite3.so
+C:\Users\Lazar\OneDrive\Desktop\eVeterinarskaAmbulanta\bin\Debug\net6.0\runtimes\linux-arm64\native\libe_sqlite3.so
+C:\Users\Lazar\OneDrive\Desktop\eVeterinarskaAmbulanta\bin\Debug\net6.0\runtimes\linux-armel\native\libe_sqlite3.so
+C:\Users\Lazar\OneDrive\Desktop\eVeterinarskaAmbulanta\bin\Debug\net6.0\runtimes\linux-mips64\native\libe_sqlite3.so
+C:\Users\Lazar\OneDrive\Desktop\eVeterinarskaAmbulanta\bin\Debug\net6.0\runtimes\linux-musl-arm\native\libe_sqlite3.so
+C:\Users\Lazar\OneDrive\Desktop\eVeterinarskaAmbulanta\bin\Debug\net6.0\runtimes\linux-musl-arm64\native\libe_sqlite3.so
+C:\Users\Lazar\OneDrive\Desktop\eVeterinarskaAmbulanta\bin\Debug\net6.0\runtimes\linux-musl-x64\native\libe_sqlite3.so
+C:\Users\Lazar\OneDrive\Desktop\eVeterinarskaAmbulanta\bin\Debug\net6.0\runtimes\linux-s390x\native\libe_sqlite3.so
+C:\Users\Lazar\OneDrive\Desktop\eVeterinarskaAmbulanta\bin\Debug\net6.0\runtimes\linux-x64\native\libe_sqlite3.so
+C:\Users\Lazar\OneDrive\Desktop\eVeterinarskaAmbulanta\bin\Debug\net6.0\runtimes\linux-x86\native\libe_sqlite3.so
+C:\Users\Lazar\OneDrive\Desktop\eVeterinarskaAmbulanta\bin\Debug\net6.0\runtimes\maccatalyst-arm64\native\libe_sqlite3.dylib
+C:\Users\Lazar\OneDrive\Desktop\eVeterinarskaAmbulanta\bin\Debug\net6.0\runtimes\maccatalyst-x64\native\libe_sqlite3.dylib
+C:\Users\Lazar\OneDrive\Desktop\eVeterinarskaAmbulanta\bin\Debug\net6.0\runtimes\osx-arm64\native\libe_sqlite3.dylib
+C:\Users\Lazar\OneDrive\Desktop\eVeterinarskaAmbulanta\bin\Debug\net6.0\runtimes\osx-x64\native\libe_sqlite3.dylib
+C:\Users\Lazar\OneDrive\Desktop\eVeterinarskaAmbulanta\bin\Debug\net6.0\runtimes\win-arm\native\e_sqlite3.dll
+C:\Users\Lazar\OneDrive\Desktop\eVeterinarskaAmbulanta\bin\Debug\net6.0\runtimes\win-arm64\native\e_sqlite3.dll
+C:\Users\Lazar\OneDrive\Desktop\eVeterinarskaAmbulanta\bin\Debug\net6.0\runtimes\win-x64\native\e_sqlite3.dll
+C:\Users\Lazar\OneDrive\Desktop\eVeterinarskaAmbulanta\bin\Debug\net6.0\runtimes\win-x86\native\e_sqlite3.dll
+C:\Users\Lazar\OneDrive\Desktop\eVeterinarskaAmbulanta\obj\Debug\net6.0\eVeterinarskaAmbulanta.csproj.AssemblyReference.cache
+C:\Users\Lazar\OneDrive\Desktop\eVeterinarskaAmbulanta\obj\Debug\net6.0\eVeterinarskaAmbulanta.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lazar\OneDrive\Desktop\eVeterinarskaAmbulanta\obj\Debug\net6.0\eVeterinarskaAmbulanta.AssemblyInfoInputs.cache
+C:\Users\Lazar\OneDrive\Desktop\eVeterinarskaAmbulanta\obj\Debug\net6.0\eVeterinarskaAmbulanta.AssemblyInfo.cs
+C:\Users\Lazar\OneDrive\Desktop\eVeterinarskaAmbulanta\obj\Debug\net6.0\eVeterinarskaAmbulanta.csproj.CoreCompileInputs.cache
+C:\Users\Lazar\OneDrive\Desktop\eVeterinarskaAmbulanta\obj\Debug\net6.0\eVeterinarskaAmbulanta.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Lazar\OneDrive\Desktop\eVeterinarskaAmbulanta\obj\Debug\net6.0\eVeterinarskaAmbulanta.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Lazar\OneDrive\Desktop\eVeterinarskaAmbulanta\obj\Debug\net6.0\staticwebassets\msbuild.eVeterinarskaAmbulanta.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Lazar\OneDrive\Desktop\eVeterinarskaAmbulanta\obj\Debug\net6.0\staticwebassets\msbuild.build.eVeterinarskaAmbulanta.props
+C:\Users\Lazar\OneDrive\Desktop\eVeterinarskaAmbulanta\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.eVeterinarskaAmbulanta.props
+C:\Users\Lazar\OneDrive\Desktop\eVeterinarskaAmbulanta\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.eVeterinarskaAmbulanta.props
+C:\Users\Lazar\OneDrive\Desktop\eVeterinarskaAmbulanta\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\Lazar\OneDrive\Desktop\eVeterinarskaAmbulanta\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\Lazar\OneDrive\Desktop\eVeterinarskaAmbulanta\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\Lazar\OneDrive\Desktop\eVeterinarskaAmbulanta\obj\Debug\net6.0\scopedcss\bundle\eVeterinarskaAmbulanta.styles.css
+C:\Users\Lazar\OneDrive\Desktop\eVeterinarskaAmbulanta\obj\Debug\net6.0\eVeterinarskaAmbulanta.csproj.CopyComplete
+C:\Users\Lazar\OneDrive\Desktop\eVeterinarskaAmbulanta\obj\Debug\net6.0\eVeterinarskaAmbulanta.dll
+C:\Users\Lazar\OneDrive\Desktop\eVeterinarskaAmbulanta\obj\Debug\net6.0\refint\eVeterinarskaAmbulanta.dll
+C:\Users\Lazar\OneDrive\Desktop\eVeterinarskaAmbulanta\obj\Debug\net6.0\eVeterinarskaAmbulanta.pdb
+C:\Users\Lazar\OneDrive\Desktop\eVeterinarskaAmbulanta\obj\Debug\net6.0\eVeterinarskaAmbulanta.genruntimeconfig.cache
+C:\Users\Lazar\OneDrive\Desktop\eVeterinarskaAmbulanta\obj\Debug\net6.0\ref\eVeterinarskaAmbulanta.dll
+C:\Users\Anja\Desktop\SWE\si.23.51.eveterinarskaambulanta\Aplikacija\eVeterinarskaAmbulanta\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\Anja\Desktop\SWE\si.23.51.eveterinarskaambulanta\Aplikacija\eVeterinarskaAmbulanta\bin\Debug\net6.0\appsettings.json
+C:\Users\Anja\Desktop\SWE\si.23.51.eveterinarskaambulanta\Aplikacija\eVeterinarskaAmbulanta\bin\Debug\net6.0\eVeterinarskaAmbulanta.exe
+C:\Users\Anja\Desktop\SWE\si.23.51.eveterinarskaambulanta\Aplikacija\eVeterinarskaAmbulanta\bin\Debug\net6.0\eVeterinarskaAmbulanta.deps.json
+C:\Users\Anja\Desktop\SWE\si.23.51.eveterinarskaambulanta\Aplikacija\eVeterinarskaAmbulanta\bin\Debug\net6.0\eVeterinarskaAmbulanta.runtimeconfig.json
+C:\Users\Anja\Desktop\SWE\si.23.51.eveterinarskaambulanta\Aplikacija\eVeterinarskaAmbulanta\bin\Debug\net6.0\eVeterinarskaAmbulanta.dll
+C:\Users\Anja\Desktop\SWE\si.23.51.eveterinarskaambulanta\Aplikacija\eVeterinarskaAmbulanta\bin\Debug\net6.0\eVeterinarskaAmbulanta.pdb
+C:\Users\Anja\Desktop\SWE\si.23.51.eveterinarskaambulanta\Aplikacija\eVeterinarskaAmbulanta\bin\Debug\net6.0\AutoMapper.dll
+C:\Users\Anja\Desktop\SWE\si.23.51.eveterinarskaambulanta\Aplikacija\eVeterinarskaAmbulanta\bin\Debug\net6.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\Anja\Desktop\SWE\si.23.51.eveterinarskaambulanta\Aplikacija\eVeterinarskaAmbulanta\bin\Debug\net6.0\Humanizer.dll
+C:\Users\Anja\Desktop\SWE\si.23.51.eveterinarskaambulanta\Aplikacija\eVeterinarskaAmbulanta\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\Anja\Desktop\SWE\si.23.51.eveterinarskaambulanta\Aplikacija\eVeterinarskaAmbulanta\bin\Debug\net6.0\Microsoft.Data.Sqlite.dll
+C:\Users\Anja\Desktop\SWE\si.23.51.eveterinarskaambulanta\Aplikacija\eVeterinarskaAmbulanta\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Anja\Desktop\SWE\si.23.51.eveterinarskaambulanta\Aplikacija\eVeterinarskaAmbulanta\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Anja\Desktop\SWE\si.23.51.eveterinarskaambulanta\Aplikacija\eVeterinarskaAmbulanta\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Anja\Desktop\SWE\si.23.51.eveterinarskaambulanta\Aplikacija\eVeterinarskaAmbulanta\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Anja\Desktop\SWE\si.23.51.eveterinarskaambulanta\Aplikacija\eVeterinarskaAmbulanta\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Sqlite.dll
+C:\Users\Anja\Desktop\SWE\si.23.51.eveterinarskaambulanta\Aplikacija\eVeterinarskaAmbulanta\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Anja\Desktop\SWE\si.23.51.eveterinarskaambulanta\Aplikacija\eVeterinarskaAmbulanta\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Anja\Desktop\SWE\si.23.51.eveterinarskaambulanta\Aplikacija\eVeterinarskaAmbulanta\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\Anja\Desktop\SWE\si.23.51.eveterinarskaambulanta\Aplikacija\eVeterinarskaAmbulanta\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\Anja\Desktop\SWE\si.23.51.eveterinarskaambulanta\Aplikacija\eVeterinarskaAmbulanta\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Anja\Desktop\SWE\si.23.51.eveterinarskaambulanta\Aplikacija\eVeterinarskaAmbulanta\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Anja\Desktop\SWE\si.23.51.eveterinarskaambulanta\Aplikacija\eVeterinarskaAmbulanta\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Anja\Desktop\SWE\si.23.51.eveterinarskaambulanta\Aplikacija\eVeterinarskaAmbulanta\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Anja\Desktop\SWE\si.23.51.eveterinarskaambulanta\Aplikacija\eVeterinarskaAmbulanta\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Anja\Desktop\SWE\si.23.51.eveterinarskaambulanta\Aplikacija\eVeterinarskaAmbulanta\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\Anja\Desktop\SWE\si.23.51.eveterinarskaambulanta\Aplikacija\eVeterinarskaAmbulanta\bin\Debug\net6.0\SQLitePCLRaw.batteries_v2.dll
+C:\Users\Anja\Desktop\SWE\si.23.51.eveterinarskaambulanta\Aplikacija\eVeterinarskaAmbulanta\bin\Debug\net6.0\SQLitePCLRaw.core.dll
+C:\Users\Anja\Desktop\SWE\si.23.51.eveterinarskaambulanta\Aplikacija\eVeterinarskaAmbulanta\bin\Debug\net6.0\SQLitePCLRaw.provider.e_sqlite3.dll
+C:\Users\Anja\Desktop\SWE\si.23.51.eveterinarskaambulanta\Aplikacija\eVeterinarskaAmbulanta\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Anja\Desktop\SWE\si.23.51.eveterinarskaambulanta\Aplikacija\eVeterinarskaAmbulanta\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Anja\Desktop\SWE\si.23.51.eveterinarskaambulanta\Aplikacija\eVeterinarskaAmbulanta\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Anja\Desktop\SWE\si.23.51.eveterinarskaambulanta\Aplikacija\eVeterinarskaAmbulanta\bin\Debug\net6.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Anja\Desktop\SWE\si.23.51.eveterinarskaambulanta\Aplikacija\eVeterinarskaAmbulanta\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Anja\Desktop\SWE\si.23.51.eveterinarskaambulanta\Aplikacija\eVeterinarskaAmbulanta\bin\Debug\net6.0\runtimes\alpine-arm\native\libe_sqlite3.so
+C:\Users\Anja\Desktop\SWE\si.23.51.eveterinarskaambulanta\Aplikacija\eVeterinarskaAmbulanta\bin\Debug\net6.0\runtimes\alpine-arm64\native\libe_sqlite3.so
+C:\Users\Anja\Desktop\SWE\si.23.51.eveterinarskaambulanta\Aplikacija\eVeterinarskaAmbulanta\bin\Debug\net6.0\runtimes\alpine-x64\native\libe_sqlite3.so
+C:\Users\Anja\Desktop\SWE\si.23.51.eveterinarskaambulanta\Aplikacija\eVeterinarskaAmbulanta\bin\Debug\net6.0\runtimes\browser-wasm\nativeassets\net6.0\e_sqlite3.a
+C:\Users\Anja\Desktop\SWE\si.23.51.eveterinarskaambulanta\Aplikacija\eVeterinarskaAmbulanta\bin\Debug\net6.0\runtimes\linux-arm\native\libe_sqlite3.so
+C:\Users\Anja\Desktop\SWE\si.23.51.eveterinarskaambulanta\Aplikacija\eVeterinarskaAmbulanta\bin\Debug\net6.0\runtimes\linux-arm64\native\libe_sqlite3.so
+C:\Users\Anja\Desktop\SWE\si.23.51.eveterinarskaambulanta\Aplikacija\eVeterinarskaAmbulanta\bin\Debug\net6.0\runtimes\linux-armel\native\libe_sqlite3.so
+C:\Users\Anja\Desktop\SWE\si.23.51.eveterinarskaambulanta\Aplikacija\eVeterinarskaAmbulanta\bin\Debug\net6.0\runtimes\linux-mips64\native\libe_sqlite3.so
+C:\Users\Anja\Desktop\SWE\si.23.51.eveterinarskaambulanta\Aplikacija\eVeterinarskaAmbulanta\bin\Debug\net6.0\runtimes\linux-musl-arm\native\libe_sqlite3.so
+C:\Users\Anja\Desktop\SWE\si.23.51.eveterinarskaambulanta\Aplikacija\eVeterinarskaAmbulanta\bin\Debug\net6.0\runtimes\linux-musl-arm64\native\libe_sqlite3.so
+C:\Users\Anja\Desktop\SWE\si.23.51.eveterinarskaambulanta\Aplikacija\eVeterinarskaAmbulanta\bin\Debug\net6.0\runtimes\linux-musl-x64\native\libe_sqlite3.so
+C:\Users\Anja\Desktop\SWE\si.23.51.eveterinarskaambulanta\Aplikacija\eVeterinarskaAmbulanta\bin\Debug\net6.0\runtimes\linux-s390x\native\libe_sqlite3.so
+C:\Users\Anja\Desktop\SWE\si.23.51.eveterinarskaambulanta\Aplikacija\eVeterinarskaAmbulanta\bin\Debug\net6.0\runtimes\linux-x64\native\libe_sqlite3.so
+C:\Users\Anja\Desktop\SWE\si.23.51.eveterinarskaambulanta\Aplikacija\eVeterinarskaAmbulanta\bin\Debug\net6.0\runtimes\linux-x86\native\libe_sqlite3.so
+C:\Users\Anja\Desktop\SWE\si.23.51.eveterinarskaambulanta\Aplikacija\eVeterinarskaAmbulanta\bin\Debug\net6.0\runtimes\maccatalyst-arm64\native\libe_sqlite3.dylib
+C:\Users\Anja\Desktop\SWE\si.23.51.eveterinarskaambulanta\Aplikacija\eVeterinarskaAmbulanta\bin\Debug\net6.0\runtimes\maccatalyst-x64\native\libe_sqlite3.dylib
+C:\Users\Anja\Desktop\SWE\si.23.51.eveterinarskaambulanta\Aplikacija\eVeterinarskaAmbulanta\bin\Debug\net6.0\runtimes\osx-arm64\native\libe_sqlite3.dylib
+C:\Users\Anja\Desktop\SWE\si.23.51.eveterinarskaambulanta\Aplikacija\eVeterinarskaAmbulanta\bin\Debug\net6.0\runtimes\osx-x64\native\libe_sqlite3.dylib
+C:\Users\Anja\Desktop\SWE\si.23.51.eveterinarskaambulanta\Aplikacija\eVeterinarskaAmbulanta\bin\Debug\net6.0\runtimes\win-arm\native\e_sqlite3.dll
+C:\Users\Anja\Desktop\SWE\si.23.51.eveterinarskaambulanta\Aplikacija\eVeterinarskaAmbulanta\bin\Debug\net6.0\runtimes\win-arm64\native\e_sqlite3.dll
+C:\Users\Anja\Desktop\SWE\si.23.51.eveterinarskaambulanta\Aplikacija\eVeterinarskaAmbulanta\bin\Debug\net6.0\runtimes\win-x64\native\e_sqlite3.dll
+C:\Users\Anja\Desktop\SWE\si.23.51.eveterinarskaambulanta\Aplikacija\eVeterinarskaAmbulanta\bin\Debug\net6.0\runtimes\win-x86\native\e_sqlite3.dll
+C:\Users\Anja\Desktop\SWE\si.23.51.eveterinarskaambulanta\Aplikacija\eVeterinarskaAmbulanta\obj\Debug\net6.0\eVeterinarskaAmbulanta.csproj.AssemblyReference.cache
+C:\Users\Anja\Desktop\SWE\si.23.51.eveterinarskaambulanta\Aplikacija\eVeterinarskaAmbulanta\obj\Debug\net6.0\eVeterinarskaAmbulanta.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Anja\Desktop\SWE\si.23.51.eveterinarskaambulanta\Aplikacija\eVeterinarskaAmbulanta\obj\Debug\net6.0\eVeterinarskaAmbulanta.AssemblyInfoInputs.cache
+C:\Users\Anja\Desktop\SWE\si.23.51.eveterinarskaambulanta\Aplikacija\eVeterinarskaAmbulanta\obj\Debug\net6.0\eVeterinarskaAmbulanta.AssemblyInfo.cs
+C:\Users\Anja\Desktop\SWE\si.23.51.eveterinarskaambulanta\Aplikacija\eVeterinarskaAmbulanta\obj\Debug\net6.0\eVeterinarskaAmbulanta.csproj.CoreCompileInputs.cache
+C:\Users\Anja\Desktop\SWE\si.23.51.eveterinarskaambulanta\Aplikacija\eVeterinarskaAmbulanta\obj\Debug\net6.0\eVeterinarskaAmbulanta.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Anja\Desktop\SWE\si.23.51.eveterinarskaambulanta\Aplikacija\eVeterinarskaAmbulanta\obj\Debug\net6.0\eVeterinarskaAmbulanta.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Anja\Desktop\SWE\si.23.51.eveterinarskaambulanta\Aplikacija\eVeterinarskaAmbulanta\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\Anja\Desktop\SWE\si.23.51.eveterinarskaambulanta\Aplikacija\eVeterinarskaAmbulanta\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\Anja\Desktop\SWE\si.23.51.eveterinarskaambulanta\Aplikacija\eVeterinarskaAmbulanta\obj\Debug\net6.0\scopedcss\bundle\eVeterinarskaAmbulanta.styles.css
+C:\Users\Anja\Desktop\SWE\si.23.51.eveterinarskaambulanta\Aplikacija\eVeterinarskaAmbulanta\obj\Debug\net6.0\eVeterinarskaAmbulanta.csproj.CopyComplete
+C:\Users\Anja\Desktop\SWE\si.23.51.eveterinarskaambulanta\Aplikacija\eVeterinarskaAmbulanta\obj\Debug\net6.0\eVeterinarskaAmbulanta.dll
+C:\Users\Anja\Desktop\SWE\si.23.51.eveterinarskaambulanta\Aplikacija\eVeterinarskaAmbulanta\obj\Debug\net6.0\refint\eVeterinarskaAmbulanta.dll
+C:\Users\Anja\Desktop\SWE\si.23.51.eveterinarskaambulanta\Aplikacija\eVeterinarskaAmbulanta\obj\Debug\net6.0\eVeterinarskaAmbulanta.pdb
+C:\Users\Anja\Desktop\SWE\si.23.51.eveterinarskaambulanta\Aplikacija\eVeterinarskaAmbulanta\obj\Debug\net6.0\eVeterinarskaAmbulanta.genruntimeconfig.cache
+C:\Users\Anja\Desktop\SWE\si.23.51.eveterinarskaambulanta\Aplikacija\eVeterinarskaAmbulanta\obj\Debug\net6.0\ref\eVeterinarskaAmbulanta.dll
+C:\Users\Anja\Desktop\eVeterinarskaAmbulanta(1)\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\Anja\Desktop\eVeterinarskaAmbulanta(1)\bin\Debug\net6.0\appsettings.json
+C:\Users\Anja\Desktop\eVeterinarskaAmbulanta(1)\bin\Debug\net6.0\Medilab\assets\vendor\bootstrap-icons\bootstrap-icons.json
+C:\Users\Anja\Desktop\eVeterinarskaAmbulanta(1)\bin\Debug\net6.0\Medilab\assets\vendor\remixicon\remixicon.glyph.json
+C:\Users\Anja\Desktop\eVeterinarskaAmbulanta(1)\bin\Debug\net6.0\eVeterinarskaAmbulanta.exe
+C:\Users\Anja\Desktop\eVeterinarskaAmbulanta(1)\bin\Debug\net6.0\eVeterinarskaAmbulanta.deps.json
+C:\Users\Anja\Desktop\eVeterinarskaAmbulanta(1)\bin\Debug\net6.0\eVeterinarskaAmbulanta.runtimeconfig.json
+C:\Users\Anja\Desktop\eVeterinarskaAmbulanta(1)\bin\Debug\net6.0\eVeterinarskaAmbulanta.dll
+C:\Users\Anja\Desktop\eVeterinarskaAmbulanta(1)\bin\Debug\net6.0\eVeterinarskaAmbulanta.pdb
+C:\Users\Anja\Desktop\eVeterinarskaAmbulanta(1)\bin\Debug\net6.0\AutoMapper.dll
+C:\Users\Anja\Desktop\eVeterinarskaAmbulanta(1)\bin\Debug\net6.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\Anja\Desktop\eVeterinarskaAmbulanta(1)\bin\Debug\net6.0\Humanizer.dll
+C:\Users\Anja\Desktop\eVeterinarskaAmbulanta(1)\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\Anja\Desktop\eVeterinarskaAmbulanta(1)\bin\Debug\net6.0\Microsoft.Data.Sqlite.dll
+C:\Users\Anja\Desktop\eVeterinarskaAmbulanta(1)\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Anja\Desktop\eVeterinarskaAmbulanta(1)\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Anja\Desktop\eVeterinarskaAmbulanta(1)\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Anja\Desktop\eVeterinarskaAmbulanta(1)\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Anja\Desktop\eVeterinarskaAmbulanta(1)\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Sqlite.dll
+C:\Users\Anja\Desktop\eVeterinarskaAmbulanta(1)\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Anja\Desktop\eVeterinarskaAmbulanta(1)\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Anja\Desktop\eVeterinarskaAmbulanta(1)\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\Anja\Desktop\eVeterinarskaAmbulanta(1)\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\Anja\Desktop\eVeterinarskaAmbulanta(1)\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Anja\Desktop\eVeterinarskaAmbulanta(1)\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Anja\Desktop\eVeterinarskaAmbulanta(1)\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Anja\Desktop\eVeterinarskaAmbulanta(1)\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Anja\Desktop\eVeterinarskaAmbulanta(1)\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Anja\Desktop\eVeterinarskaAmbulanta(1)\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\Anja\Desktop\eVeterinarskaAmbulanta(1)\bin\Debug\net6.0\SQLitePCLRaw.batteries_v2.dll
+C:\Users\Anja\Desktop\eVeterinarskaAmbulanta(1)\bin\Debug\net6.0\SQLitePCLRaw.core.dll
+C:\Users\Anja\Desktop\eVeterinarskaAmbulanta(1)\bin\Debug\net6.0\SQLitePCLRaw.provider.e_sqlite3.dll
+C:\Users\Anja\Desktop\eVeterinarskaAmbulanta(1)\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Anja\Desktop\eVeterinarskaAmbulanta(1)\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Anja\Desktop\eVeterinarskaAmbulanta(1)\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Anja\Desktop\eVeterinarskaAmbulanta(1)\bin\Debug\net6.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Anja\Desktop\eVeterinarskaAmbulanta(1)\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Anja\Desktop\eVeterinarskaAmbulanta(1)\bin\Debug\net6.0\runtimes\alpine-arm\native\libe_sqlite3.so
+C:\Users\Anja\Desktop\eVeterinarskaAmbulanta(1)\bin\Debug\net6.0\runtimes\alpine-arm64\native\libe_sqlite3.so
+C:\Users\Anja\Desktop\eVeterinarskaAmbulanta(1)\bin\Debug\net6.0\runtimes\alpine-x64\native\libe_sqlite3.so
+C:\Users\Anja\Desktop\eVeterinarskaAmbulanta(1)\bin\Debug\net6.0\runtimes\browser-wasm\nativeassets\net6.0\e_sqlite3.a
+C:\Users\Anja\Desktop\eVeterinarskaAmbulanta(1)\bin\Debug\net6.0\runtimes\linux-arm\native\libe_sqlite3.so
+C:\Users\Anja\Desktop\eVeterinarskaAmbulanta(1)\bin\Debug\net6.0\runtimes\linux-arm64\native\libe_sqlite3.so
+C:\Users\Anja\Desktop\eVeterinarskaAmbulanta(1)\bin\Debug\net6.0\runtimes\linux-armel\native\libe_sqlite3.so
+C:\Users\Anja\Desktop\eVeterinarskaAmbulanta(1)\bin\Debug\net6.0\runtimes\linux-mips64\native\libe_sqlite3.so
+C:\Users\Anja\Desktop\eVeterinarskaAmbulanta(1)\bin\Debug\net6.0\runtimes\linux-musl-arm\native\libe_sqlite3.so
+C:\Users\Anja\Desktop\eVeterinarskaAmbulanta(1)\bin\Debug\net6.0\runtimes\linux-musl-arm64\native\libe_sqlite3.so
+C:\Users\Anja\Desktop\eVeterinarskaAmbulanta(1)\bin\Debug\net6.0\runtimes\linux-musl-x64\native\libe_sqlite3.so
+C:\Users\Anja\Desktop\eVeterinarskaAmbulanta(1)\bin\Debug\net6.0\runtimes\linux-s390x\native\libe_sqlite3.so
+C:\Users\Anja\Desktop\eVeterinarskaAmbulanta(1)\bin\Debug\net6.0\runtimes\linux-x64\native\libe_sqlite3.so
+C:\Users\Anja\Desktop\eVeterinarskaAmbulanta(1)\bin\Debug\net6.0\runtimes\linux-x86\native\libe_sqlite3.so
+C:\Users\Anja\Desktop\eVeterinarskaAmbulanta(1)\bin\Debug\net6.0\runtimes\maccatalyst-arm64\native\libe_sqlite3.dylib
+C:\Users\Anja\Desktop\eVeterinarskaAmbulanta(1)\bin\Debug\net6.0\runtimes\maccatalyst-x64\native\libe_sqlite3.dylib
+C:\Users\Anja\Desktop\eVeterinarskaAmbulanta(1)\bin\Debug\net6.0\runtimes\osx-arm64\native\libe_sqlite3.dylib
+C:\Users\Anja\Desktop\eVeterinarskaAmbulanta(1)\bin\Debug\net6.0\runtimes\osx-x64\native\libe_sqlite3.dylib
+C:\Users\Anja\Desktop\eVeterinarskaAmbulanta(1)\bin\Debug\net6.0\runtimes\win-arm\native\e_sqlite3.dll
+C:\Users\Anja\Desktop\eVeterinarskaAmbulanta(1)\bin\Debug\net6.0\runtimes\win-arm64\native\e_sqlite3.dll
+C:\Users\Anja\Desktop\eVeterinarskaAmbulanta(1)\bin\Debug\net6.0\runtimes\win-x64\native\e_sqlite3.dll
+C:\Users\Anja\Desktop\eVeterinarskaAmbulanta(1)\bin\Debug\net6.0\runtimes\win-x86\native\e_sqlite3.dll
+C:\Users\Anja\Desktop\eVeterinarskaAmbulanta(1)\obj\Debug\net6.0\eVeterinarskaAmbulanta.csproj.AssemblyReference.cache
+C:\Users\Anja\Desktop\eVeterinarskaAmbulanta(1)\obj\Debug\net6.0\eVeterinarskaAmbulanta.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Anja\Desktop\eVeterinarskaAmbulanta(1)\obj\Debug\net6.0\eVeterinarskaAmbulanta.AssemblyInfoInputs.cache
+C:\Users\Anja\Desktop\eVeterinarskaAmbulanta(1)\obj\Debug\net6.0\eVeterinarskaAmbulanta.AssemblyInfo.cs
+C:\Users\Anja\Desktop\eVeterinarskaAmbulanta(1)\obj\Debug\net6.0\eVeterinarskaAmbulanta.csproj.CoreCompileInputs.cache
+C:\Users\Anja\Desktop\eVeterinarskaAmbulanta(1)\obj\Debug\net6.0\eVeterinarskaAmbulanta.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Anja\Desktop\eVeterinarskaAmbulanta(1)\obj\Debug\net6.0\eVeterinarskaAmbulanta.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Anja\Desktop\eVeterinarskaAmbulanta(1)\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\Anja\Desktop\eVeterinarskaAmbulanta(1)\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\Anja\Desktop\eVeterinarskaAmbulanta(1)\obj\Debug\net6.0\scopedcss\bundle\eVeterinarskaAmbulanta.styles.css
+C:\Users\Anja\Desktop\eVeterinarskaAmbulanta(1)\obj\Debug\net6.0\eVeterinarskaAmbulanta.csproj.CopyComplete
+C:\Users\Anja\Desktop\eVeterinarskaAmbulanta(1)\obj\Debug\net6.0\eVeterinarskaAmbulanta.dll
+C:\Users\Anja\Desktop\eVeterinarskaAmbulanta(1)\obj\Debug\net6.0\refint\eVeterinarskaAmbulanta.dll
+C:\Users\Anja\Desktop\eVeterinarskaAmbulanta(1)\obj\Debug\net6.0\eVeterinarskaAmbulanta.pdb
+C:\Users\Anja\Desktop\eVeterinarskaAmbulanta(1)\obj\Debug\net6.0\eVeterinarskaAmbulanta.genruntimeconfig.cache
+C:\Users\Anja\Desktop\eVeterinarskaAmbulanta(1)\obj\Debug\net6.0\ref\eVeterinarskaAmbulanta.dll
+C:\Users\Lazar\OneDrive\Desktop\eVeterinarskaAmbulanta\bin\Debug\net6.0\Client\assets\vendor\bootstrap-icons\bootstrap-icons.json
+C:\Users\Lazar\OneDrive\Desktop\eVeterinarskaAmbulanta\bin\Debug\net6.0\Client\assets\vendor\remixicon\remixicon.glyph.json
+C:\Users\Anja\Desktop\si.23.51.eveterinarskaambulanta\Aplikacija\eVeterinarskaAmbulanta\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\Anja\Desktop\si.23.51.eveterinarskaambulanta\Aplikacija\eVeterinarskaAmbulanta\bin\Debug\net6.0\appsettings.json
+C:\Users\Anja\Desktop\si.23.51.eveterinarskaambulanta\Aplikacija\eVeterinarskaAmbulanta\bin\Debug\net6.0\Client\assets\vendor\bootstrap-icons\bootstrap-icons.json
+C:\Users\Anja\Desktop\si.23.51.eveterinarskaambulanta\Aplikacija\eVeterinarskaAmbulanta\bin\Debug\net6.0\Client\assets\vendor\remixicon\remixicon.glyph.json
+C:\Users\Anja\Desktop\si.23.51.eveterinarskaambulanta\Aplikacija\eVeterinarskaAmbulanta\bin\Debug\net6.0\eVeterinarskaAmbulanta.exe
+C:\Users\Anja\Desktop\si.23.51.eveterinarskaambulanta\Aplikacija\eVeterinarskaAmbulanta\bin\Debug\net6.0\eVeterinarskaAmbulanta.deps.json
+C:\Users\Anja\Desktop\si.23.51.eveterinarskaambulanta\Aplikacija\eVeterinarskaAmbulanta\bin\Debug\net6.0\eVeterinarskaAmbulanta.runtimeconfig.json
+C:\Users\Anja\Desktop\si.23.51.eveterinarskaambulanta\Aplikacija\eVeterinarskaAmbulanta\bin\Debug\net6.0\eVeterinarskaAmbulanta.dll
+C:\Users\Anja\Desktop\si.23.51.eveterinarskaambulanta\Aplikacija\eVeterinarskaAmbulanta\bin\Debug\net6.0\eVeterinarskaAmbulanta.pdb
+C:\Users\Anja\Desktop\si.23.51.eveterinarskaambulanta\Aplikacija\eVeterinarskaAmbulanta\bin\Debug\net6.0\AutoMapper.dll
+C:\Users\Anja\Desktop\si.23.51.eveterinarskaambulanta\Aplikacija\eVeterinarskaAmbulanta\bin\Debug\net6.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\Anja\Desktop\si.23.51.eveterinarskaambulanta\Aplikacija\eVeterinarskaAmbulanta\bin\Debug\net6.0\Humanizer.dll
+C:\Users\Anja\Desktop\si.23.51.eveterinarskaambulanta\Aplikacija\eVeterinarskaAmbulanta\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\Anja\Desktop\si.23.51.eveterinarskaambulanta\Aplikacija\eVeterinarskaAmbulanta\bin\Debug\net6.0\Microsoft.Data.Sqlite.dll
+C:\Users\Anja\Desktop\si.23.51.eveterinarskaambulanta\Aplikacija\eVeterinarskaAmbulanta\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Anja\Desktop\si.23.51.eveterinarskaambulanta\Aplikacija\eVeterinarskaAmbulanta\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Anja\Desktop\si.23.51.eveterinarskaambulanta\Aplikacija\eVeterinarskaAmbulanta\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Anja\Desktop\si.23.51.eveterinarskaambulanta\Aplikacija\eVeterinarskaAmbulanta\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Anja\Desktop\si.23.51.eveterinarskaambulanta\Aplikacija\eVeterinarskaAmbulanta\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Sqlite.dll
+C:\Users\Anja\Desktop\si.23.51.eveterinarskaambulanta\Aplikacija\eVeterinarskaAmbulanta\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Anja\Desktop\si.23.51.eveterinarskaambulanta\Aplikacija\eVeterinarskaAmbulanta\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Anja\Desktop\si.23.51.eveterinarskaambulanta\Aplikacija\eVeterinarskaAmbulanta\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\Anja\Desktop\si.23.51.eveterinarskaambulanta\Aplikacija\eVeterinarskaAmbulanta\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\Anja\Desktop\si.23.51.eveterinarskaambulanta\Aplikacija\eVeterinarskaAmbulanta\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Anja\Desktop\si.23.51.eveterinarskaambulanta\Aplikacija\eVeterinarskaAmbulanta\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Anja\Desktop\si.23.51.eveterinarskaambulanta\Aplikacija\eVeterinarskaAmbulanta\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Anja\Desktop\si.23.51.eveterinarskaambulanta\Aplikacija\eVeterinarskaAmbulanta\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Anja\Desktop\si.23.51.eveterinarskaambulanta\Aplikacija\eVeterinarskaAmbulanta\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Anja\Desktop\si.23.51.eveterinarskaambulanta\Aplikacija\eVeterinarskaAmbulanta\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\Anja\Desktop\si.23.51.eveterinarskaambulanta\Aplikacija\eVeterinarskaAmbulanta\bin\Debug\net6.0\SQLitePCLRaw.batteries_v2.dll
+C:\Users\Anja\Desktop\si.23.51.eveterinarskaambulanta\Aplikacija\eVeterinarskaAmbulanta\bin\Debug\net6.0\SQLitePCLRaw.core.dll
+C:\Users\Anja\Desktop\si.23.51.eveterinarskaambulanta\Aplikacija\eVeterinarskaAmbulanta\bin\Debug\net6.0\SQLitePCLRaw.provider.e_sqlite3.dll
+C:\Users\Anja\Desktop\si.23.51.eveterinarskaambulanta\Aplikacija\eVeterinarskaAmbulanta\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Anja\Desktop\si.23.51.eveterinarskaambulanta\Aplikacija\eVeterinarskaAmbulanta\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Anja\Desktop\si.23.51.eveterinarskaambulanta\Aplikacija\eVeterinarskaAmbulanta\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Anja\Desktop\si.23.51.eveterinarskaambulanta\Aplikacija\eVeterinarskaAmbulanta\bin\Debug\net6.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Anja\Desktop\si.23.51.eveterinarskaambulanta\Aplikacija\eVeterinarskaAmbulanta\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Anja\Desktop\si.23.51.eveterinarskaambulanta\Aplikacija\eVeterinarskaAmbulanta\bin\Debug\net6.0\runtimes\alpine-arm\native\libe_sqlite3.so
+C:\Users\Anja\Desktop\si.23.51.eveterinarskaambulanta\Aplikacija\eVeterinarskaAmbulanta\bin\Debug\net6.0\runtimes\alpine-arm64\native\libe_sqlite3.so
+C:\Users\Anja\Desktop\si.23.51.eveterinarskaambulanta\Aplikacija\eVeterinarskaAmbulanta\bin\Debug\net6.0\runtimes\alpine-x64\native\libe_sqlite3.so
+C:\Users\Anja\Desktop\si.23.51.eveterinarskaambulanta\Aplikacija\eVeterinarskaAmbulanta\bin\Debug\net6.0\runtimes\browser-wasm\nativeassets\net6.0\e_sqlite3.a
+C:\Users\Anja\Desktop\si.23.51.eveterinarskaambulanta\Aplikacija\eVeterinarskaAmbulanta\bin\Debug\net6.0\runtimes\linux-arm\native\libe_sqlite3.so
+C:\Users\Anja\Desktop\si.23.51.eveterinarskaambulanta\Aplikacija\eVeterinarskaAmbulanta\bin\Debug\net6.0\runtimes\linux-arm64\native\libe_sqlite3.so
+C:\Users\Anja\Desktop\si.23.51.eveterinarskaambulanta\Aplikacija\eVeterinarskaAmbulanta\bin\Debug\net6.0\runtimes\linux-armel\native\libe_sqlite3.so
+C:\Users\Anja\Desktop\si.23.51.eveterinarskaambulanta\Aplikacija\eVeterinarskaAmbulanta\bin\Debug\net6.0\runtimes\linux-mips64\native\libe_sqlite3.so
+C:\Users\Anja\Desktop\si.23.51.eveterinarskaambulanta\Aplikacija\eVeterinarskaAmbulanta\bin\Debug\net6.0\runtimes\linux-musl-arm\native\libe_sqlite3.so
+C:\Users\Anja\Desktop\si.23.51.eveterinarskaambulanta\Aplikacija\eVeterinarskaAmbulanta\bin\Debug\net6.0\runtimes\linux-musl-arm64\native\libe_sqlite3.so
+C:\Users\Anja\Desktop\si.23.51.eveterinarskaambulanta\Aplikacija\eVeterinarskaAmbulanta\bin\Debug\net6.0\runtimes\linux-musl-x64\native\libe_sqlite3.so
+C:\Users\Anja\Desktop\si.23.51.eveterinarskaambulanta\Aplikacija\eVeterinarskaAmbulanta\bin\Debug\net6.0\runtimes\linux-s390x\native\libe_sqlite3.so
+C:\Users\Anja\Desktop\si.23.51.eveterinarskaambulanta\Aplikacija\eVeterinarskaAmbulanta\bin\Debug\net6.0\runtimes\linux-x64\native\libe_sqlite3.so
+C:\Users\Anja\Desktop\si.23.51.eveterinarskaambulanta\Aplikacija\eVeterinarskaAmbulanta\bin\Debug\net6.0\runtimes\linux-x86\native\libe_sqlite3.so
+C:\Users\Anja\Desktop\si.23.51.eveterinarskaambulanta\Aplikacija\eVeterinarskaAmbulanta\bin\Debug\net6.0\runtimes\maccatalyst-arm64\native\libe_sqlite3.dylib
+C:\Users\Anja\Desktop\si.23.51.eveterinarskaambulanta\Aplikacija\eVeterinarskaAmbulanta\bin\Debug\net6.0\runtimes\maccatalyst-x64\native\libe_sqlite3.dylib
+C:\Users\Anja\Desktop\si.23.51.eveterinarskaambulanta\Aplikacija\eVeterinarskaAmbulanta\bin\Debug\net6.0\runtimes\osx-arm64\native\libe_sqlite3.dylib
+C:\Users\Anja\Desktop\si.23.51.eveterinarskaambulanta\Aplikacija\eVeterinarskaAmbulanta\bin\Debug\net6.0\runtimes\osx-x64\native\libe_sqlite3.dylib
+C:\Users\Anja\Desktop\si.23.51.eveterinarskaambulanta\Aplikacija\eVeterinarskaAmbulanta\bin\Debug\net6.0\runtimes\win-arm\native\e_sqlite3.dll
+C:\Users\Anja\Desktop\si.23.51.eveterinarskaambulanta\Aplikacija\eVeterinarskaAmbulanta\bin\Debug\net6.0\runtimes\win-arm64\native\e_sqlite3.dll
+C:\Users\Anja\Desktop\si.23.51.eveterinarskaambulanta\Aplikacija\eVeterinarskaAmbulanta\bin\Debug\net6.0\runtimes\win-x64\native\e_sqlite3.dll
+C:\Users\Anja\Desktop\si.23.51.eveterinarskaambulanta\Aplikacija\eVeterinarskaAmbulanta\bin\Debug\net6.0\runtimes\win-x86\native\e_sqlite3.dll
+C:\Users\Anja\Desktop\si.23.51.eveterinarskaambulanta\Aplikacija\eVeterinarskaAmbulanta\obj\Debug\net6.0\eVeterinarskaAmbulanta.csproj.AssemblyReference.cache
+C:\Users\Anja\Desktop\si.23.51.eveterinarskaambulanta\Aplikacija\eVeterinarskaAmbulanta\obj\Debug\net6.0\eVeterinarskaAmbulanta.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Anja\Desktop\si.23.51.eveterinarskaambulanta\Aplikacija\eVeterinarskaAmbulanta\obj\Debug\net6.0\eVeterinarskaAmbulanta.AssemblyInfoInputs.cache
+C:\Users\Anja\Desktop\si.23.51.eveterinarskaambulanta\Aplikacija\eVeterinarskaAmbulanta\obj\Debug\net6.0\eVeterinarskaAmbulanta.AssemblyInfo.cs
+C:\Users\Anja\Desktop\si.23.51.eveterinarskaambulanta\Aplikacija\eVeterinarskaAmbulanta\obj\Debug\net6.0\eVeterinarskaAmbulanta.csproj.CoreCompileInputs.cache
+C:\Users\Anja\Desktop\si.23.51.eveterinarskaambulanta\Aplikacija\eVeterinarskaAmbulanta\obj\Debug\net6.0\eVeterinarskaAmbulanta.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Anja\Desktop\si.23.51.eveterinarskaambulanta\Aplikacija\eVeterinarskaAmbulanta\obj\Debug\net6.0\eVeterinarskaAmbulanta.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Anja\Desktop\si.23.51.eveterinarskaambulanta\Aplikacija\eVeterinarskaAmbulanta\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\Anja\Desktop\si.23.51.eveterinarskaambulanta\Aplikacija\eVeterinarskaAmbulanta\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\Anja\Desktop\si.23.51.eveterinarskaambulanta\Aplikacija\eVeterinarskaAmbulanta\obj\Debug\net6.0\scopedcss\bundle\eVeterinarskaAmbulanta.styles.css
+C:\Users\Anja\Desktop\si.23.51.eveterinarskaambulanta\Aplikacija\eVeterinarskaAmbulanta\obj\Debug\net6.0\eVeterinarskaAmbulanta.csproj.CopyComplete
+C:\Users\Anja\Desktop\si.23.51.eveterinarskaambulanta\Aplikacija\eVeterinarskaAmbulanta\obj\Debug\net6.0\eVeterinarskaAmbulanta.dll
+C:\Users\Anja\Desktop\si.23.51.eveterinarskaambulanta\Aplikacija\eVeterinarskaAmbulanta\obj\Debug\net6.0\refint\eVeterinarskaAmbulanta.dll
+C:\Users\Anja\Desktop\si.23.51.eveterinarskaambulanta\Aplikacija\eVeterinarskaAmbulanta\obj\Debug\net6.0\eVeterinarskaAmbulanta.pdb
+C:\Users\Anja\Desktop\si.23.51.eveterinarskaambulanta\Aplikacija\eVeterinarskaAmbulanta\obj\Debug\net6.0\eVeterinarskaAmbulanta.genruntimeconfig.cache
+C:\Users\Anja\Desktop\si.23.51.eveterinarskaambulanta\Aplikacija\eVeterinarskaAmbulanta\obj\Debug\net6.0\ref\eVeterinarskaAmbulanta.dll
+C:\Users\Lazar\OneDrive\Desktop\Projekti\swe projekat\eveterinarskaambulanta\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\Lazar\OneDrive\Desktop\Projekti\swe projekat\eveterinarskaambulanta\bin\Debug\net6.0\appsettings.json
+C:\Users\Lazar\OneDrive\Desktop\Projekti\swe projekat\eveterinarskaambulanta\bin\Debug\net6.0\Client\assets\vendor\bootstrap-icons\bootstrap-icons.json
+C:\Users\Lazar\OneDrive\Desktop\Projekti\swe projekat\eveterinarskaambulanta\bin\Debug\net6.0\Client\assets\vendor\remixicon\remixicon.glyph.json
+C:\Users\Lazar\OneDrive\Desktop\Projekti\swe projekat\eveterinarskaambulanta\bin\Debug\net6.0\eVeterinarskaAmbulanta.exe
+C:\Users\Lazar\OneDrive\Desktop\Projekti\swe projekat\eveterinarskaambulanta\bin\Debug\net6.0\eVeterinarskaAmbulanta.deps.json
+C:\Users\Lazar\OneDrive\Desktop\Projekti\swe projekat\eveterinarskaambulanta\bin\Debug\net6.0\eVeterinarskaAmbulanta.runtimeconfig.json
+C:\Users\Lazar\OneDrive\Desktop\Projekti\swe projekat\eveterinarskaambulanta\bin\Debug\net6.0\eVeterinarskaAmbulanta.dll
+C:\Users\Lazar\OneDrive\Desktop\Projekti\swe projekat\eveterinarskaambulanta\bin\Debug\net6.0\eVeterinarskaAmbulanta.pdb
+C:\Users\Lazar\OneDrive\Desktop\Projekti\swe projekat\eveterinarskaambulanta\bin\Debug\net6.0\AutoMapper.dll
+C:\Users\Lazar\OneDrive\Desktop\Projekti\swe projekat\eveterinarskaambulanta\bin\Debug\net6.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\Lazar\OneDrive\Desktop\Projekti\swe projekat\eveterinarskaambulanta\bin\Debug\net6.0\Humanizer.dll
+C:\Users\Lazar\OneDrive\Desktop\Projekti\swe projekat\eveterinarskaambulanta\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\Lazar\OneDrive\Desktop\Projekti\swe projekat\eveterinarskaambulanta\bin\Debug\net6.0\Microsoft.Data.Sqlite.dll
+C:\Users\Lazar\OneDrive\Desktop\Projekti\swe projekat\eveterinarskaambulanta\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Lazar\OneDrive\Desktop\Projekti\swe projekat\eveterinarskaambulanta\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Lazar\OneDrive\Desktop\Projekti\swe projekat\eveterinarskaambulanta\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Lazar\OneDrive\Desktop\Projekti\swe projekat\eveterinarskaambulanta\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Lazar\OneDrive\Desktop\Projekti\swe projekat\eveterinarskaambulanta\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Sqlite.dll
+C:\Users\Lazar\OneDrive\Desktop\Projekti\swe projekat\eveterinarskaambulanta\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Lazar\OneDrive\Desktop\Projekti\swe projekat\eveterinarskaambulanta\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Lazar\OneDrive\Desktop\Projekti\swe projekat\eveterinarskaambulanta\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\Lazar\OneDrive\Desktop\Projekti\swe projekat\eveterinarskaambulanta\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\Lazar\OneDrive\Desktop\Projekti\swe projekat\eveterinarskaambulanta\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Lazar\OneDrive\Desktop\Projekti\swe projekat\eveterinarskaambulanta\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Lazar\OneDrive\Desktop\Projekti\swe projekat\eveterinarskaambulanta\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Lazar\OneDrive\Desktop\Projekti\swe projekat\eveterinarskaambulanta\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Lazar\OneDrive\Desktop\Projekti\swe projekat\eveterinarskaambulanta\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Lazar\OneDrive\Desktop\Projekti\swe projekat\eveterinarskaambulanta\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\Lazar\OneDrive\Desktop\Projekti\swe projekat\eveterinarskaambulanta\bin\Debug\net6.0\SQLitePCLRaw.batteries_v2.dll
+C:\Users\Lazar\OneDrive\Desktop\Projekti\swe projekat\eveterinarskaambulanta\bin\Debug\net6.0\SQLitePCLRaw.core.dll
+C:\Users\Lazar\OneDrive\Desktop\Projekti\swe projekat\eveterinarskaambulanta\bin\Debug\net6.0\SQLitePCLRaw.provider.e_sqlite3.dll
+C:\Users\Lazar\OneDrive\Desktop\Projekti\swe projekat\eveterinarskaambulanta\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Lazar\OneDrive\Desktop\Projekti\swe projekat\eveterinarskaambulanta\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Lazar\OneDrive\Desktop\Projekti\swe projekat\eveterinarskaambulanta\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Lazar\OneDrive\Desktop\Projekti\swe projekat\eveterinarskaambulanta\bin\Debug\net6.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Lazar\OneDrive\Desktop\Projekti\swe projekat\eveterinarskaambulanta\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Lazar\OneDrive\Desktop\Projekti\swe projekat\eveterinarskaambulanta\bin\Debug\net6.0\runtimes\alpine-arm\native\libe_sqlite3.so
+C:\Users\Lazar\OneDrive\Desktop\Projekti\swe projekat\eveterinarskaambulanta\bin\Debug\net6.0\runtimes\alpine-arm64\native\libe_sqlite3.so
+C:\Users\Lazar\OneDrive\Desktop\Projekti\swe projekat\eveterinarskaambulanta\bin\Debug\net6.0\runtimes\alpine-x64\native\libe_sqlite3.so
+C:\Users\Lazar\OneDrive\Desktop\Projekti\swe projekat\eveterinarskaambulanta\bin\Debug\net6.0\runtimes\browser-wasm\nativeassets\net6.0\e_sqlite3.a
+C:\Users\Lazar\OneDrive\Desktop\Projekti\swe projekat\eveterinarskaambulanta\bin\Debug\net6.0\runtimes\linux-arm\native\libe_sqlite3.so
+C:\Users\Lazar\OneDrive\Desktop\Projekti\swe projekat\eveterinarskaambulanta\bin\Debug\net6.0\runtimes\linux-arm64\native\libe_sqlite3.so
+C:\Users\Lazar\OneDrive\Desktop\Projekti\swe projekat\eveterinarskaambulanta\bin\Debug\net6.0\runtimes\linux-armel\native\libe_sqlite3.so
+C:\Users\Lazar\OneDrive\Desktop\Projekti\swe projekat\eveterinarskaambulanta\bin\Debug\net6.0\runtimes\linux-mips64\native\libe_sqlite3.so
+C:\Users\Lazar\OneDrive\Desktop\Projekti\swe projekat\eveterinarskaambulanta\bin\Debug\net6.0\runtimes\linux-musl-arm\native\libe_sqlite3.so
+C:\Users\Lazar\OneDrive\Desktop\Projekti\swe projekat\eveterinarskaambulanta\bin\Debug\net6.0\runtimes\linux-musl-arm64\native\libe_sqlite3.so
+C:\Users\Lazar\OneDrive\Desktop\Projekti\swe projekat\eveterinarskaambulanta\bin\Debug\net6.0\runtimes\linux-musl-x64\native\libe_sqlite3.so
+C:\Users\Lazar\OneDrive\Desktop\Projekti\swe projekat\eveterinarskaambulanta\bin\Debug\net6.0\runtimes\linux-s390x\native\libe_sqlite3.so
+C:\Users\Lazar\OneDrive\Desktop\Projekti\swe projekat\eveterinarskaambulanta\bin\Debug\net6.0\runtimes\linux-x64\native\libe_sqlite3.so
+C:\Users\Lazar\OneDrive\Desktop\Projekti\swe projekat\eveterinarskaambulanta\bin\Debug\net6.0\runtimes\linux-x86\native\libe_sqlite3.so
+C:\Users\Lazar\OneDrive\Desktop\Projekti\swe projekat\eveterinarskaambulanta\bin\Debug\net6.0\runtimes\maccatalyst-arm64\native\libe_sqlite3.dylib
+C:\Users\Lazar\OneDrive\Desktop\Projekti\swe projekat\eveterinarskaambulanta\bin\Debug\net6.0\runtimes\maccatalyst-x64\native\libe_sqlite3.dylib
+C:\Users\Lazar\OneDrive\Desktop\Projekti\swe projekat\eveterinarskaambulanta\bin\Debug\net6.0\runtimes\osx-arm64\native\libe_sqlite3.dylib
+C:\Users\Lazar\OneDrive\Desktop\Projekti\swe projekat\eveterinarskaambulanta\bin\Debug\net6.0\runtimes\osx-x64\native\libe_sqlite3.dylib
+C:\Users\Lazar\OneDrive\Desktop\Projekti\swe projekat\eveterinarskaambulanta\bin\Debug\net6.0\runtimes\win-arm\native\e_sqlite3.dll
+C:\Users\Lazar\OneDrive\Desktop\Projekti\swe projekat\eveterinarskaambulanta\bin\Debug\net6.0\runtimes\win-arm64\native\e_sqlite3.dll
+C:\Users\Lazar\OneDrive\Desktop\Projekti\swe projekat\eveterinarskaambulanta\bin\Debug\net6.0\runtimes\win-x64\native\e_sqlite3.dll
+C:\Users\Lazar\OneDrive\Desktop\Projekti\swe projekat\eveterinarskaambulanta\bin\Debug\net6.0\runtimes\win-x86\native\e_sqlite3.dll
+C:\Users\Lazar\OneDrive\Desktop\Projekti\swe projekat\eveterinarskaambulanta\obj\Debug\net6.0\eVeterinarskaAmbulanta.csproj.AssemblyReference.cache
+C:\Users\Lazar\OneDrive\Desktop\Projekti\swe projekat\eveterinarskaambulanta\obj\Debug\net6.0\eVeterinarskaAmbulanta.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lazar\OneDrive\Desktop\Projekti\swe projekat\eveterinarskaambulanta\obj\Debug\net6.0\eVeterinarskaAmbulanta.AssemblyInfoInputs.cache
+C:\Users\Lazar\OneDrive\Desktop\Projekti\swe projekat\eveterinarskaambulanta\obj\Debug\net6.0\eVeterinarskaAmbulanta.AssemblyInfo.cs
+C:\Users\Lazar\OneDrive\Desktop\Projekti\swe projekat\eveterinarskaambulanta\obj\Debug\net6.0\eVeterinarskaAmbulanta.csproj.CoreCompileInputs.cache
+C:\Users\Lazar\OneDrive\Desktop\Projekti\swe projekat\eveterinarskaambulanta\obj\Debug\net6.0\eVeterinarskaAmbulanta.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Lazar\OneDrive\Desktop\Projekti\swe projekat\eveterinarskaambulanta\obj\Debug\net6.0\eVeterinarskaAmbulanta.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Lazar\OneDrive\Desktop\Projekti\swe projekat\eveterinarskaambulanta\obj\Debug\net6.0\staticwebassets\msbuild.eVeterinarskaAmbulanta.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Lazar\OneDrive\Desktop\Projekti\swe projekat\eveterinarskaambulanta\obj\Debug\net6.0\staticwebassets\msbuild.build.eVeterinarskaAmbulanta.props
+C:\Users\Lazar\OneDrive\Desktop\Projekti\swe projekat\eveterinarskaambulanta\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.eVeterinarskaAmbulanta.props
+C:\Users\Lazar\OneDrive\Desktop\Projekti\swe projekat\eveterinarskaambulanta\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.eVeterinarskaAmbulanta.props
+C:\Users\Lazar\OneDrive\Desktop\Projekti\swe projekat\eveterinarskaambulanta\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\Lazar\OneDrive\Desktop\Projekti\swe projekat\eveterinarskaambulanta\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\Lazar\OneDrive\Desktop\Projekti\swe projekat\eveterinarskaambulanta\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\Lazar\OneDrive\Desktop\Projekti\swe projekat\eveterinarskaambulanta\obj\Debug\net6.0\scopedcss\bundle\eVeterinarskaAmbulanta.styles.css
+C:\Users\Lazar\OneDrive\Desktop\Projekti\swe projekat\eveterinarskaambulanta\obj\Debug\net6.0\eVeterinarskaAmbulanta.csproj.CopyComplete
+C:\Users\Lazar\OneDrive\Desktop\Projekti\swe projekat\eveterinarskaambulanta\obj\Debug\net6.0\eVeterinarskaAmbulanta.dll
+C:\Users\Lazar\OneDrive\Desktop\Projekti\swe projekat\eveterinarskaambulanta\obj\Debug\net6.0\refint\eVeterinarskaAmbulanta.dll
+C:\Users\Lazar\OneDrive\Desktop\Projekti\swe projekat\eveterinarskaambulanta\obj\Debug\net6.0\eVeterinarskaAmbulanta.pdb
+C:\Users\Lazar\OneDrive\Desktop\Projekti\swe projekat\eveterinarskaambulanta\obj\Debug\net6.0\eVeterinarskaAmbulanta.genruntimeconfig.cache
+C:\Users\Lazar\OneDrive\Desktop\Projekti\swe projekat\eveterinarskaambulanta\obj\Debug\net6.0\ref\eVeterinarskaAmbulanta.dll
