@@ -16,7 +16,7 @@ public interface IUserRepository
     Task<User?> GetByIdAsync(int userId, bool includePets);
 
     //Task<bool> UserExistsAsync(int userId);
-    Task AddAsync(User user);
+    Task AddAsync(User user);   
     Task UpdateAsync(User user);
     Task DeleteAsync(User user);
     Task<User> GetUserByEmailAsync(string email);

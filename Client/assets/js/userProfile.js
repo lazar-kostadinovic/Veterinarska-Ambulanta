@@ -270,6 +270,7 @@
               zakaziDugme.style.color = '#007bff';
               zakaziDugme.style.textDecoration = 'underline';
               zakaziDugme.style.cursor = 'pointer';
+
               const istorijaLecenja = document.createElement('button');
               istorijaLecenja.className = "btn btn-primary mb-1";
               istorijaLecenja.textContent = 'Istorija lečenja';
@@ -278,6 +279,16 @@
               istorijaLecenja.style.color = '#007bff';
               istorijaLecenja.style.textDecoration = 'underline';
               istorijaLecenja.style.cursor = 'pointer';
+
+              const obrisiLjubimca = document.createElement('button');
+              obrisiLjubimca.className = "btn btn-primary mb-1";
+              obrisiLjubimca.textContent = 'Obrisi ljubimca';
+              obrisiLjubimca.style.backgroundColor = 'transparent';
+              obrisiLjubimca.style.border = 'none';
+              obrisiLjubimca.style.color = '#007bff';
+              obrisiLjubimca.style.textDecoration = 'underline';
+              obrisiLjubimca.style.cursor = 'pointer';
+
 
               name.textContent = 'Ime: ' + pet.name;
               age.textContent = 'Starost(godine): ' + pet.age;
@@ -288,7 +299,22 @@
               cardBody.appendChild(species);
               cardBody.appendChild(zakaziDugme);
               cardBody.appendChild(istorijaLecenja);
+              cardBody.appendChild(obrisiLjubimca);
+              
 
+              obrisiLjubimca.addEventListener("click", () =>{
+                fetch(`https://localhost:7222/api/Pet/${pet.id}?userId=${user.id}`, {
+                  method: "DELETE",
+                  headers: {
+                    'Authorization': `Bearer ${token}`
+                  }
+                }).then(p => {
+                  if (p.ok) {
+                    alert("Uspesno ste obrisali ljubimca");
+                  }
+              });
+            });           
+            // 
 
               zakaziDugme.addEventListener("click", () => {
                 window.location.href = 'zakazivanjePregleda.html?petID=' + pet.id + '&userID=' + user.id;
@@ -487,6 +513,8 @@
                     else
                       historyContainer.style.display = (historyContainer.style.display === 'none') ? 'block' : 'none';
                   });
+
+        
 
                 });
             });

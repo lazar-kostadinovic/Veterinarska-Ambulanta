@@ -2273,19 +2273,24 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Lazar\\.nuget\\packages\\": {}
+    "C:\\Users\\Lazar\\.nuget\\packages\\": {},
+    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Lazar\\OneDrive\\Desktop\\Projekti\\swe projekat\\eveterinarskaambulanta\\eVeterinarskaAmbulanta.csproj",
+      "projectUniqueName": "C:\\Users\\Lazar\\Desktop\\Projekti\\swe projekat\\eVeterinarskaAmbulanta\\eVeterinarskaAmbulanta.csproj",
       "projectName": "eVeterinarskaAmbulanta",
-      "projectPath": "C:\\Users\\Lazar\\OneDrive\\Desktop\\Projekti\\swe projekat\\eveterinarskaambulanta\\eVeterinarskaAmbulanta.csproj",
+      "projectPath": "C:\\Users\\Lazar\\Desktop\\Projekti\\swe projekat\\eVeterinarskaAmbulanta\\eVeterinarskaAmbulanta.csproj",
       "packagesPath": "C:\\Users\\Lazar\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Lazar\\OneDrive\\Desktop\\Projekti\\swe projekat\\eveterinarskaambulanta\\obj\\",
+      "outputPath": "C:\\Users\\Lazar\\Desktop\\Projekti\\swe projekat\\eVeterinarskaAmbulanta\\obj\\",
       "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+      ],
       "configFilePaths": [
         "C:\\Users\\Lazar\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -2305,6 +2310,11 @@
         "warnAsError": [
           "NU1605"
         ]
+      },
+      "restoreAuditProperties": {
+        "enableAudit": "true",
+        "auditLevel": "low",
+        "auditMode": "direct"
       }
     },
     "frameworks": {
@@ -2353,6 +2363,24 @@
         ],
         "assetTargetFallback": true,
         "warn": true,
+        "downloadDependencies": [
+          {
+            "name": "Microsoft.AspNetCore.App.Ref",
+            "version": "[6.0.27, 6.0.27]"
+          },
+          {
+            "name": "Microsoft.NETCore.App.Host.win-x64",
+            "version": "[6.0.27, 6.0.27]"
+          },
+          {
+            "name": "Microsoft.NETCore.App.Ref",
+            "version": "[6.0.27, 6.0.27]"
+          },
+          {
+            "name": "Microsoft.WindowsDesktop.App.Ref",
+            "version": "[6.0.27, 6.0.27]"
+          }
+        ],
         "frameworkReferences": {
           "Microsoft.AspNetCore.App": {
             "privateAssets": "none"
@@ -2361,8 +2389,20 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.203\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.201\\RuntimeIdentifierGraph.json"
       }
     }
-  }
+  },
+  "logs": [
+    {
+      "code": "NU1902",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Package 'System.IdentityModel.Tokens.Jwt' 6.30.1 has a known moderate severity vulnerability, https://github.com/advisories/GHSA-59j7-ghrg-fj52",
+      "libraryId": "System.IdentityModel.Tokens.Jwt",
+      "targetGraphs": [
+        "net6.0"
+      ]
+    }
+  ]
 }
