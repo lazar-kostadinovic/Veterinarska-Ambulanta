@@ -314,7 +314,7 @@
                   }
               });
             });           
-            // 
+            
 
               zakaziDugme.addEventListener("click", () => {
                 window.location.href = 'zakazivanjePregleda.html?petID=' + pet.id + '&userID=' + user.id;
